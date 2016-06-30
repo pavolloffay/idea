@@ -1,0 +1,50 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="wid" type="ActionScript" />
+      <mapping pattern=".resources" type="PLAIN_TEXT" />
+      <mapping pattern=".global" type="PLAIN_TEXT" />
+      <mapping pattern="climbingStairs" type="PLAIN_TEXT" />
+      <mapping pattern="numberOfInversions" type="PLAIN_TEXT" />
+      <mapping pattern="DetectingCycles" type="PLAIN_TEXT" />
+      <mapping pattern="simple-data" type="PLAIN_TEXT" />
+      <mapping pattern="cashRegister" type="PLAIN_TEXT" />
+      <mapping pattern="numberParis" type="PLAIN_TEXT" />
+      <mapping pattern="doubleTrouble" type="PLAIN_TEXT" />
+      <mapping pattern="DataRecovery" type="PLAIN_TEXT" />
+      <mapping pattern="suggestedGroupsTest" type="PLAIN_TEXT" />
+      <mapping pattern=".customer_care" type="PLAIN_TEXT" />
+      <mapping pattern="chardonnayOrCabernet" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="DetectingCycle" type="PLAIN_TEXT" />
+      <mapping pattern="repeatedSubstring" type="PLAIN_TEXT" />
+      <mapping pattern="sequenceTransformation" type="PLAIN_TEXT" />
+      <mapping pattern="carRace" type="PLAIN_TEXT" />
+      <mapping pattern="longestLines" type="PLAIN_TEXT" />
+      <mapping pattern="package-names-white-list" type="PLAIN_TEXT" />
+      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
+      <mapping pattern="lowestCommonAncestor" type="PLAIN_TEXT" />
+      <mapping pattern="stringRotation" type="PLAIN_TEXT" />
+      <mapping pattern="brokenLCD" type="PLAIN_TEXT" />
+      <mapping pattern="organizationalHierarchy" type="PLAIN_TEXT" />
+      <mapping pattern="sumOfNumbers" type="PLAIN_TEXT" />
+      <mapping pattern="columnNames" type="PLAIN_TEXT" />
+      <mapping pattern="stringSearching" type="PLAIN_TEXT" />
+      <mapping pattern="_metadata" type="PLAIN_TEXT" />
+      <mapping pattern=".registration" type="PLAIN_TEXT" />
+      <mapping pattern="roboAndRobitta" type="PLAIN_TEXT" />
+      <mapping pattern="_common_metadata" type="PLAIN_TEXT" />
+      <mapping pattern="interruptedBubbleSort" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
+      <mapping ext="expected" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
