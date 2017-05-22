@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="make thesis" description="run makefile default target" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make " />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/hawkular/hawkular-datamining/doc" />
+    </exec>
+  </tool>
+</toolSet>
