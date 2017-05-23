@@ -1582,7 +1582,6 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/zipkin-org/spring-cloud-sleuth/spring-cloud-sleuth-core/src/main/java/org/springframework/cloud/sleuth/annotation/NewSpan.java" timestamp="1495462612816" />
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2/src/main/java/io/opentracing/contrib/jaxrs2/server/ActiveSpanContext.java" timestamp="1485979700578">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="11" column="100" />
@@ -5621,8 +5620,8 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" timestamp="1495468202047">
-        <mark key="[" line="25" column="33" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" timestamp="1495543817835">
+        <mark key="[" line="21" column="45" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
