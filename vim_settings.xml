@@ -4918,11 +4918,10 @@
         <mark key="^" line="167" column="35" />
         <mark key="." line="167" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495297175049">
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495555911276">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-        <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/ZipKinFilter.java" timestamp="1491224557801">
         <mark key="[" line="23" column="0" />
@@ -5620,10 +5619,11 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" timestamp="1495543817835">
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" timestamp="1495555013510">
         <mark key="[" line="21" column="45" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/projects/opentracing-java-jax-rs/integration-tests/common/src/main/java/io/opentracing/contrib/jarxrs/itest/common/rest/HelloHandler.java" timestamp="1481636578711">
         <mark key="[" line="127" column="0" />
@@ -6173,11 +6173,11 @@
         <mark key="^" line="256" column="33" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495287193913">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
+      <file name="/fragment.java" timestamp="1495555804812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2/src/main/java/io/opentracing/contrib/jaxrs2/server/ServerTracingDynamicFeature.java" timestamp="1494862343212">
         <mark key="[" line="133" column="0" />
@@ -6981,28 +6981,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFBvcnRhbElQKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VydmljZSBzZXJ2aWNlID0gZ2V0U2VydmljZShTRVJWSUNFX05BTUUpOwoKc2VydmljZS5nZXRTcGVjKCkuZ2V0Q2x1c3RlcklQKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBlMmVjNjZhYmIwZmJkZWE3MTNiMTIxZmNkMjQwZmY1ZmIwY2U2ODc1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBEb2NzIGFkZCBsaW5rIHRvIG9jLCBrOHMgdGVtcGxhdGVzIGFuZCBsaW5rcyB0byBhbGwgcmVwb3NpdG9yaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
