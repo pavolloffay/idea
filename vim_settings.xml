@@ -4921,11 +4921,12 @@
         <mark key="^" line="167" column="35" />
         <mark key="." line="167" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495560245831">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="56" column="50" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495571860137">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+        <mark key="^" line="49" column="15" />
       </file>
       <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/ZipKinFilter.java" timestamp="1491224557801">
         <mark key="[" line="23" column="0" />
@@ -6982,31 +6983,31 @@
         <text encoding="base64">ICogW1B5dGhvbiBjbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtcHl0aG9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFNlcnZpY2VVUkwodWlTZXJ2aWNlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBEZXBsb3ltZW50KHRlc3RhYmxlID0gdHJ1ZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2aWNlIHVpU2VydmljZSA9IGdldFNlcnZpY2UoU0VSVklDRV9OQU1FKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFNlcnZpY2VVUkwodWlTZXJ2aWNlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBEZXBsb3ltZW50KHRlc3RhYmxlID0gdHJ1ZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlIHVpU2VydmljZSA9IGdldFNlcnZpY2UoU0VSVklDRV9OQU1FKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZSBzZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
