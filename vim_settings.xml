@@ -4252,6 +4252,12 @@
         <mark key="^" line="43" column="47" />
         <mark key="." line="43" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/resources/arquillian.xml" timestamp="1495572691738">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495556860067">
         <mark key="[" line="0" column="0" />
       </file>
