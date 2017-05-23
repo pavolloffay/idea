@@ -653,6 +653,9 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/kubernetes-zipkin/readme.md" timestamp="1495571162682">
+        <mark key="[" line="120" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/test/java/org/hawkular/apm/server/api/utils/zipkin/ZipkinSpanConvertorTest.java" timestamp="1476124375824">
         <mark key="[" line="86" column="20" />
         <mark key="]" line="86" column="57" />
