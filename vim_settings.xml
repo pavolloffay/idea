@@ -4249,7 +4249,7 @@
         <mark key="^" line="43" column="47" />
         <mark key="." line="43" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495285557694">
+      <file name="/Dummy.txt" timestamp="1495556860067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
@@ -4918,10 +4918,10 @@
         <mark key="^" line="167" column="35" />
         <mark key="." line="167" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495555911276">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495556513963">
+        <mark key="[" line="51" column="53" />
+        <mark key="]" line="51" column="53" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/ZipKinFilter.java" timestamp="1491224557801">
         <mark key="[" line="23" column="0" />
@@ -6173,11 +6173,8 @@
         <mark key="^" line="256" column="33" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495555804812">
+      <file name="/fragment.java" timestamp="1495556610349">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2/src/main/java/io/opentracing/contrib/jaxrs2/server/ServerTracingDynamicFeature.java" timestamp="1494862343212">
         <mark key="[" line="133" column="0" />
@@ -6239,6 +6236,7 @@
         <mark key="." line="43" column="11" />
         <mark key="^" line="43" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/kubernetes-zipkin/zipkin/src/main/fabric8/zipkin-svc.yml" timestamp="1495556075851" />
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/java-cassandra/install-cassandra-zipkin.sh" timestamp="1476447078616">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="35" column="0" />
@@ -6978,31 +6976,31 @@
         <text encoding="base64">ICogW1B5dGhvbiBjbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtcHl0aG9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlIHVpU2VydmljZSA9IGdldFNlcnZpY2UoU0VSVklDRV9OQU1FKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFBvcnRhbElQKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2VydmljZSBzZXJ2aWNlID0gZ2V0U2VydmljZShTRVJWSUNFX05BTUUpOwoKc2VydmljZS5nZXRTcGVjKCkuZ2V0Q2x1c3RlcklQKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZSBzZXJ2aWNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
+        <text encoding="base64">ICAgIEBBcnF1aWxsaWFuUmVzb3VyY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTZXJ2aWNlTmFtZSgiamFlZ2VyLWFsbC1pbi1vbmUiKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFBvcnRhbElQKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VydmljZSBzZXJ2aWNlID0gZ2V0U2VydmljZShTRVJWSUNFX05BTUUpOwoKc2VydmljZS5nZXRTcGVjKCkuZ2V0Q2x1c3RlcklQKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
