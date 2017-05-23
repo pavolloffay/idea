@@ -1972,11 +1972,10 @@
         <mark key="^" line="660" column="0" />
         <mark key="." line="1007" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/pom.xml" timestamp="1495288643479">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="38" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/pom.xml" timestamp="1495560207626">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/InterfaceIpV4Address.java" timestamp="1474991310553">
         <mark key="[" line="34" column="26" />
@@ -4918,10 +4917,11 @@
         <mark key="^" line="167" column="35" />
         <mark key="." line="167" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495556513963">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495560245831">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="56" column="50" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/ZipKinFilter.java" timestamp="1491224557801">
         <mark key="[" line="23" column="0" />
@@ -6173,7 +6173,7 @@
         <mark key="^" line="256" column="33" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495556610349">
+      <file name="/fragment.java" timestamp="1495560268274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2/src/main/java/io/opentracing/contrib/jaxrs2/server/ServerTracingDynamicFeature.java" timestamp="1494862343212">
@@ -6964,6 +6964,8 @@
       <jump line="149" column="0" filename="$USER_HOME$/projects/httpclient/httpclient5/src/main/java/org/apache/hc/client5/http/impl/async/HttpAsyncClientBuilder.java" />
       <jump line="12" column="3" filename="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" />
       <jump line="14" column="6" filename="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" />
+      <jump line="49" column="14" filename="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" />
+      <jump line="48" column="4" filename="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -6976,31 +6978,31 @@
         <text encoding="base64">ICogW1B5dGhvbiBjbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtcHl0aG9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2aWNlIHVpU2VydmljZSA9IGdldFNlcnZpY2UoU0VSVklDRV9OQU1FKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFNlcnZpY2VVUkwodWlTZXJ2aWNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZSBzZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIEBEZXBsb3ltZW50KHRlc3RhYmxlID0gdHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcnF1aWxsaWFuUmVzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTZXJ2aWNlTmFtZSgiamFlZ2VyLWFsbC1pbi1vbmUiKQo=</text>
+        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFBvcnRhbElQKCkK</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlIHVpU2VydmljZSA9IGdldFNlcnZpY2UoU0VSVklDRV9OQU1FKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2VydmljZSBzZXJ2aWNlID0gZ2V0U2VydmljZShTRVJWSUNFX05BTUUpOwoKc2VydmljZS5nZXRTcGVjKCkuZ2V0Q2x1c3RlcklQKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZSBzZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
