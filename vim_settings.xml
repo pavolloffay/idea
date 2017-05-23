@@ -5893,6 +5893,11 @@
         <mark key="." line="95" column="49" />
         <mark key="^" line="95" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/golang/src/github.com/uber/jaeger/docs/getting_started.md" timestamp="1495523548730">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/mvc/src/test/java/io/opentracing/contrib/spring/web/interceptor/itest/mvc/SpringMVCConfiguration.java" timestamp="1491994491939">
         <mark key="[" line="94" column="83" />
         <mark key="]" line="95" column="67" />
@@ -6775,6 +6780,12 @@
         <mark key="^" line="89" column="22" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/golang/src/github.com/uber/jaeger/README.md" timestamp="1495523610245">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-inventory/.travis.yml" timestamp="1469713101722">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="41" />
@@ -6965,34 +6976,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGxzICR7SE9NRX0vZ29vZ2xlLWNsb3VkLXNkawo=</text>
+        <text encoding="base64">ICogW1B5dGhvbiBjbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtcHl0aG9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIHJtIC1yZiAke0hPTUV9L2dvb2dsZS1jbG91ZC1zZGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIG9wZW5zc2wgYWVzLTI1Ni1jYmMgLUsgJGVuY3J5cHRlZF85OTg3NmFmNzRlYjZfa2V5IC1pdiAkZW5jcnlwdGVkXzk5ODc2YWY3NGViNl9pdiAtaW4gY2xpZW50LXNlY3JldC5qc29uLmVuYyAtb3V0IGNsaWVudC1zZWNyZXQuanNvbiAtZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIG9wZW5zc2wgYWVzLTI1Ni1jYmMgLUsgJGVuY3J5cHRlZF85OTg3NmFmNzRlYjZfa2V5IC1pdiAkZW5jcnlwdGVkXzk5ODc2YWY3NGViNl9pdiAtaW4gY2xpZW50LXNlY3JldC5qc29uLmVuYyAtb3V0IGNsaWVudC1zZWNyZXQuanNvbiAtZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIG9wZW5zc2wgYWVzLTI1Ni1jYmMgLUsgJGVuY3J5cHRlZF85OTg3NmFmNzRlYjZfa2V5IC1pdiAkZW5jcnlwdGVkXzk5ODc2YWY3NGViNl9pdiAtaW4gY2xpZW50LXNlY3JldC5qc29uLmVuYyAtb3V0IGNsaWVudC1zZWNyZXQuanNvbiAtZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHJtIC1yZiAke0hPTUV9L2dvb2dsZS1jbG91ZC1zZGsK</text>
+        <text encoding="base64">PDw8PDw8PCBlMmVjNjZhYmIwZmJkZWE3MTNiMTIxZmNkMjQwZmY1ZmIwY2U2ODc1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIGxzICR7SE9NRX0vZ29vZ2xlLWNsb3VkLXNkawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIGxzICR7SE9NRX0K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGxzICR7SE9NRX0vZ29vZ2xlLWNsb3VkLXNkawo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBEb2NzIGFkZCBsaW5rIHRvIG9jLCBrOHMgdGVtcGxhdGVzIGFuZCBsaW5rcyB0byBhbGwgcmVwb3NpdG9yaWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
