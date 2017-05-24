@@ -914,6 +914,7 @@
         <mark key="^" line="80" column="43" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/kubernetes/ftest-kubernetes/src/test/java/HelloWorldTest.java" timestamp="1495610995958" />
       <file name="$USER_HOME$/projects/webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1473153451636">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="27" />
@@ -5950,6 +5951,7 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/java/org/arquillian/cube/openshift/standalone/HelloWorldTest.java" timestamp="1495610872252" />
       <file name="$USER_HOME$/projects/wildfly-swarm/fractions/opentracing-jaxrs/src/main/java/org/wildfly/swarm/opentracing/jaxrs/deployment/TracingDynamicFeature.java" timestamp="1481228035233">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
