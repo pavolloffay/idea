@@ -26,9 +26,6 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1494597157836">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-handler-interceptor/src/test/java/io/opentracing/contrib/spring/web/interceptor/app/SpringMVCConfiguration.java" timestamp="1486725375492">
         <mark key="[" line="34" column="87" />
         <mark key="]" line="35" column="54" />
@@ -652,9 +649,6 @@
         <mark key="]" line="29" column="20" />
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/kubernetes-zipkin/readme.md" timestamp="1495571162682">
-        <mark key="[" line="120" column="43" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/test/java/org/hawkular/apm/server/api/utils/zipkin/ZipkinSpanConvertorTest.java" timestamp="1476124375824">
         <mark key="[" line="86" column="20" />
@@ -2627,11 +2621,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495646184483">
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="87" column="35" />
-        <mark key="^" line="87" column="35" />
-        <mark key="." line="87" column="35" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495648944847">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="59" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="87" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/analytics-service-rest-client/src/main/java/org/hawkular/apm/analytics/service/rest/client/AnalyticsServiceRESTClient.java" timestamp="1480083212949">
         <mark key="[" line="103" column="5" />
@@ -4299,9 +4293,6 @@
         <mark key="^" line="25" column="65" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/k8s.java" timestamp="1495202380964">
-        <mark key="[" line="5" column="14" />
-      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/agent-opentracing/src/test/java/org/hawkular/apm/agent/opentracing/OpenTracingManagerTest.java" timestamp="1484921762768">
         <mark key="[" line="43" column="15" />
         <mark key="]" line="43" column="47" />
@@ -4312,9 +4303,6 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1495623529505">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
         <mark key="[" line="88" column="63" />
@@ -5357,9 +5345,9 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/.travis.yml" timestamp="1495208804081">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="11" />
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/.travis.yml" timestamp="1495648061915">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
@@ -5663,8 +5651,10 @@
         <mark key="^" line="46" column="77" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/.travis.yml" timestamp="1495646427532">
-        <mark key="[" line="0" column="7" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/.travis.yml" timestamp="1495649033739">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing-java-jax-rs/jaxrs/src/main/java/io/opentracing/contrib/jaxrs/server/SpanDecorator.java" timestamp="1481639263915">
         <mark key="[" line="25" column="40" />
@@ -5708,11 +5698,10 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" timestamp="1495646460963">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.travis.yml" timestamp="1495648084203">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing-java-jax-rs/integration-tests/common/src/main/java/io/opentracing/contrib/jarxrs/itest/common/rest/HelloHandler.java" timestamp="1481636578711">
         <mark key="[" line="127" column="0" />
@@ -5969,9 +5958,6 @@
         <mark key="]" line="21" column="42" />
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-api/src/main/java/io/opentracing/tag/ShortTag.java" timestamp="1494831914152">
-        <mark key="[" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/projects/opentracing-java-jax-rs/jaxrs/src/main/java/io/opentracing/contrib/jaxrs/server/ServerTracingDynamicFeature.java" timestamp="1481636205851">
         <mark key="[" line="36" column="0" />
@@ -7072,34 +7058,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IS5tdm4vd3JhcHBlci9tYXZlbi13cmFwcGVyLmphcgo=</text>
+        <text encoding="base64">Y2FjaGU6CiAgZGlyZWN0b3JpZXM6CiAgLSAkSE9NRS8ubTIvcmVwb3NpdG9yeQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGFsaWFzIG9jPSJ0cnVlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNob3B0IC1zIGV4cGFuZF9hbGlhc2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmVmb3JlX2luc3RhbGw6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx0ZW1wbGF0ZS5uYW1lLnByb2Nlc3NlZD5qYWVnZXItYWxsLWluLW9uZS10ZW1wbGF0ZS1wcm9jZXNzZWQueW1sPC90ZW1wbGF0ZS5uYW1lLnByb2Nlc3NlZD4K</text>
+        <text encoding="base64">ICAgIDwhLS0gcHJvY2VzcyB0ZW1wbGF0ZSBhbmQgcHV0IGl0IGludG8gdGFyZ2V0IHRlc3QgZGlyIC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08L3Jlc291cmNlcz4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTwvcmVzb3VyY2U+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgPGFjdGl2YXRpZG9uPjwvYWN0aXZhdGlkb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRpcmVjdG9yeT5zcmMvdGVzdC9yZXNvdXJjZXM8L2RpcmVjdG9yeT4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
