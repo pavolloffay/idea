@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/pom.xml" timestamp="1495288579260">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/java-dropwizard/src/main/java/org/hawkular/apm/example/dropwizard/rest/UsersHandler.java" timestamp="1473857104560">
         <mark key="[" line="95" column="64" />
         <mark key="]" line="95" column="63" />
@@ -3034,7 +3029,7 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495627915261">
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495628992444">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -5803,6 +5798,7 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest/src/test/resources/arquillian.xml" timestamp="1495628794226" />
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/model/TestCase.java" timestamp="1469697230333">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="34" column="69" />
@@ -5943,11 +5939,6 @@
         <mark key="]" line="95" column="49" />
         <mark key="." line="95" column="49" />
         <mark key="^" line="95" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/golang/src/github.com/uber/jaeger/docs/getting_started.md" timestamp="1495523548730">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/mvc/src/test/java/io/opentracing/contrib/spring/web/interceptor/itest/mvc/SpringMVCConfiguration.java" timestamp="1491994491939">
         <mark key="[" line="94" column="83" />
