@@ -1113,6 +1113,10 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/resources/arquillian.xml" timestamp="1495631163843">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="76" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/test/resources/testVertxOpenTracing/test.json" timestamp="1483460863227">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -1798,11 +1802,11 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/resources/arquillian.xml" timestamp="1495626640152">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/resources/arquillian.xml" timestamp="1495631176508">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+        <mark key="^" line="8" column="51" />
       </file>
       <file name="$USER_HOME$/projects/opentracing-java-jax-rs/examples/spring-boot/src/main/java/sk/loffay/opentracing/jax/rs/example/Configuration.java" timestamp="1479768617781">
         <mark key="[" line="14" column="12" />
@@ -2071,6 +2075,12 @@
         <mark key="]" line="8" column="15" />
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/resources/aa.yml" timestamp="1495633820892">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="6" />
+        <mark key="^" line="30" column="31" />
+        <mark key="." line="30" column="6" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-btm/tests/instrumentation-framework/src/test/resources/testSimple/ATestCase.json" timestamp="1468936491785">
         <mark key="[" line="8" column="24" />
@@ -2612,8 +2622,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495626660417">
-        <mark key="[" line="29" column="44" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495631066105">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="58" column="39" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="58" column="39" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/analytics-service-rest-client/src/main/java/org/hawkular/apm/analytics/service/rest/client/AnalyticsServiceRESTClient.java" timestamp="1480083212949">
         <mark key="[" line="103" column="5" />
@@ -2657,6 +2670,7 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/pom.xml" timestamp="1495631076866" />
       <file name="$USER_HOME$/projects/wildfly-swarm/fractions/opentracing-hawkular-jaxrs/module.conf" timestamp="1487188036010">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -3029,10 +3043,11 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495628992444">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495632718927">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="29" column="22" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/dist/pom.xml" timestamp="1473953445170">
         <mark key="[" line="204" column="23" />
@@ -4076,7 +4091,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/jaeger-all-in-one-template.yml" timestamp="1495614364961">
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/jaeger-all-in-one-template.yml" timestamp="1495632839666">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="59" column="37" />
         <mark key="^" line="4" column="46" />
@@ -4502,6 +4517,7 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest/pom.xml" timestamp="1495630690066" />
       <file name="$USER_HOME$/projects/opentracing/java-okhttp/README.md" timestamp="1493215640937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="68" />
@@ -5798,7 +5814,10 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest/src/test/resources/arquillian.xml" timestamp="1495628794226" />
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest/src/test/resources/arquillian.xml" timestamp="1495630810695">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/model/TestCase.java" timestamp="1469697230333">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="34" column="69" />
@@ -5982,7 +6001,10 @@
         <mark key="^" line="79" column="46" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/java/org/arquillian/cube/openshift/standalone/HelloWorldTest.java" timestamp="1495610872252" />
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/java/org/arquillian/cube/openshift/standalone/HelloWorldTest.java" timestamp="1495631103678">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/wildfly-swarm/fractions/opentracing-jaxrs/src/main/java/org/wildfly/swarm/opentracing/jaxrs/deployment/TracingDynamicFeature.java" timestamp="1481228035233">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -6590,6 +6612,7 @@
         <mark key="." line="69" column="38" />
         <mark key="^" line="69" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest/src/test/java/org/arquillian/cube/openshift/ftest/HelloPodDeploymentOpenShiftTestCase.java" timestamp="1495630947126" />
       <file name="$MAVEN_REPOSITORY$/org/infinispan/infinispan-query/8.1.0.Final/infinispan-query-8.1.0.Final.pom" timestamp="1470049047993">
         <mark key="[" line="77" column="52" />
         <mark key="]" line="77" column="24" />
@@ -6842,6 +6865,10 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="24" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/resources/hello-openshift.json" timestamp="1495633887776">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2-itest/resteasy/src/test/java/io/opentracing/contrib/jaxrs2/itest/resteasy/RestEasyServerDefaultConfigurationITest.java" timestamp="1494510000017">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="13" column="44" />
@@ -7016,7 +7043,7 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uLm1hdmVuLXNvdXJjZS1wbHVnaW4+My4wLjE8L3ZlcnNpb24ubWF2ZW4tc291cmNlLXBsdWdpbj4K</text>
+        <text encoding="base64">IyAgc3BlYzoKIyAgICBuYW1lOiBqYWVnZXItYWxsLWluLW9uZQojICAgIGltYWdlOiBqYWVnZXJ0cmFjaW5nL2FsbC1pbi1vbmU6ZjIwOTgxMmQKIyAgICBpbWFnZVB1bGxQb2xpY3k6IElmTm90UHJlc2VudAojICAgIHJlc3RhcnRQb2xpY3kiOiBBbHdheXMsCiMgICAgZG5zUG9saWN5IjogQ2x1c3RlckZpcnN0LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -7025,25 +7052,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29ubmVjdCBrdWJlY3RsIHRvIGs4cyBjbHVzdGVyCg==</text>
+        <text encoding="base64">ICB2YWx1ZTogamFlZ2VyLWFsbC1pbi1vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlZDogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lOiBKQUVHRVJfTkFNRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICBkaXNwbGF5TmFtZTogSmFlZ2VyIHNlcnZpY2UgbmFtZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">LSBkZXNjcmlwdGlvbjogVGhlIG5hbWUgb2YgdGhlIEphZWdlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHt2ZXJzaW9uLm9yZy5hd2FpdGlsaXR5LWF3YWl0aWxpdHl9PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">cGFyYW1ldGVyczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+YXdhaXRpbGl0eTwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
