@@ -686,6 +686,11 @@
         <mark key="^" line="259" column="22" />
         <mark key="." line="256" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/resources/kubernetes.yml" timestamp="1495615192912">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/environment/TestEnvironmentExecutor.java" timestamp="1482406312530">
         <mark key="[" line="39" column="20" />
         <mark key="]" line="39" column="41" />
@@ -914,7 +919,12 @@
         <mark key="^" line="80" column="43" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/kubernetes/ftest-kubernetes/src/test/java/HelloWorldTest.java" timestamp="1495610995958" />
+      <file name="$USER_HOME$/projects/arquillian-cube/kubernetes/ftest-kubernetes/src/test/java/HelloWorldTest.java" timestamp="1495615343153">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1473153451636">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="27" />
@@ -927,10 +937,11 @@
         <mark key="." line="104" column="25" />
         <mark key="^" line="104" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/pom.xml" timestamp="1495288602376">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/pom.xml" timestamp="1495614516408">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/java-dropwizard/README.adoc" timestamp="1476450789479">
         <mark key="[" line="0" column="1" />
@@ -1760,6 +1771,7 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/arquillian/cube/arquillian-cube-bom/1.4.0/arquillian-cube-bom-1.4.0.pom" timestamp="1495614597321" />
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm-user-guide/docs/layouts/footer.html" timestamp="1479222990895">
         <mark key="[" line="0" column="72" />
         <mark key="]" line="1" column="0" />
@@ -1910,6 +1922,10 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/kubernetes/ftest-kubernetes/pom.xml" timestamp="1495612935018">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/processors/zipkin/src/main/java/org/hawkular/apm/processor/zipkin/FragmentCompletionTimeDeriver.java" timestamp="1472652980727">
         <mark key="[" line="49" column="61" />
         <mark key="]" line="55" column="59" />
@@ -1976,11 +1992,10 @@
         <mark key="^" line="660" column="0" />
         <mark key="." line="1007" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/pom.xml" timestamp="1495570473022">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/pom.xml" timestamp="1495615419488">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/InterfaceIpV4Address.java" timestamp="1474991310553">
         <mark key="[" line="34" column="26" />
@@ -3560,6 +3575,10 @@
         <mark key="." line="175" column="0" />
         <mark key="^" line="175" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/arquillian-cube/pom.xml" timestamp="1495613753189">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/events/CompletionTime.java" timestamp="1476718519637">
         <mark key="[" line="154" column="60" />
         <mark key="]" line="168" column="0" />
@@ -4046,9 +4065,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/jaeger-all-in-one-template.yml" timestamp="1494343141748">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="39" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/jaeger-all-in-one-template.yml" timestamp="1495614364961">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="59" column="37" />
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
       </file>
@@ -4259,7 +4278,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495556860067">
+      <file name="/Dummy.txt" timestamp="1495613148840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
@@ -4928,12 +4947,11 @@
         <mark key="^" line="167" column="35" />
         <mark key="." line="167" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495571860137">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="15" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneTest.java" timestamp="1495615380042">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/ZipKinFilter.java" timestamp="1491224557801">
         <mark key="[" line="23" column="0" />
@@ -6988,34 +7006,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogW1B5dGhvbiBjbGllbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtcHl0aG9uKQo=</text>
+        <text encoding="base64">ICAgIEBOYW1lZCgiaGVsbG8td29ybGQiKQogICAgQFBvcnRGb3J3YXJkCiAgICBAQXJxdWlsbGlhblJlc291cmNlCiAgICBVUkwgdXJsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gdXJsLjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBLdWJlcm5ldGVzSGVscGVyLmdldFNlcnZpY2VVUkwodWlTZXJ2aWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJpb2RTZWNvbmRzOiA1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBEZXBsb3ltZW50KHRlc3RhYmxlID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0aWFsRGVsYXlTZWNvbmRzOiA1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gL3RtcC9oZWFsdGh5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSdW5Bc0NsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gY2F0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbW1hbmQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2aWNlIHVpU2VydmljZSA9IGdldFNlcnZpY2UoU0VSVklDRV9OQU1FKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGVjOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbGl2ZW5lc3NQcm9iZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
