@@ -784,11 +784,11 @@
         <mark key="." line="433" column="0" />
         <mark key="^" line="432" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/jaeger-contributions.adoc" timestamp="1495711660243">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/jaeger-contributions.adoc" timestamp="1495714743701">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="17" column="85" />
+        <mark key="^" line="17" column="85" />
+        <mark key="." line="17" column="85" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/java-wildfly-swarm/src/main/java/org/hawkular/apm/example/swarm/rest/UserHandler.java" timestamp="1473404744003">
         <mark key="[" line="59" column="0" />
@@ -4326,6 +4326,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1495712855318">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
         <mark key="[" line="88" column="63" />
         <mark key="]" line="87" column="10" />
@@ -6304,6 +6307,10 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/04/19/hawkular-apm-jaeger.adoc" timestamp="1495714465259">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="41" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-http-components/opentracing-apache-http-client/src/main/java/io/opentracing/contrib/apache/internal/HttpHeadersInjectAdapter.java" timestamp="1489752889642">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="102" />
@@ -7087,34 +7094,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8YnVpbGQ+CiAgICA8IS0tIENvcHkgdGVtcGxhdGUgdG8gdGVzdCByZXNvdXJjZXMgLS0+CiAgICA8cmVzb3VyY2VzPgogICAgICA8cmVzb3VyY2U+CiAgICAgICAgPGRpcmVjdG9yeT4ke3Byb2plY3QuYmFzZWRpcn08L2RpcmVjdG9yeT4KICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICA8aW5jbHVkZT4ke3RlbXBsYXRlLm5hbWV9PC9pbmNsdWRlPgogICAgICAgIDwvaW5jbHVkZXM+CiAgICAgIDwvcmVzb3VyY2U+CiAgICAgIDxyZXNvdXJjZT4KICAgICAgICA8ZGlyZWN0b3J5PnNyYy90ZXN0L3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICA8L3Jlc291cmNlPgogICAgPC9yZXNvdXJjZXM+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zdXJlZmlyZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+Mi4yMDwvdmVyc2lvbj4KICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxzeXN0ZW1Qcm9wZXJ0eVZhcmlhYmxlcz4KICAgICAgICAgICAgPGVudi5jb25maWcucmVzb3VyY2UubmFtZT4ke3RlbXBsYXRlLm5hbWV9PC9lbnYuY29uZmlnLnJlc291cmNlLm5hbWU+CiAgICAgICAgICA8L3N5c3RlbVByb3BlcnR5VmFyaWFibGVzPgogICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgPC9wbHVnaW4+CiAgICA8L3BsdWdpbnM+CiAgPC9idWlsZD4K</text>
+        <text encoding="base64">aWZuZGVmOjplbnYtZ2l0aHViW10KaW1hZ2U6Oi9pbWcvYmxvZy8yMDE3LzIwMTctMDQtMTktamFlZ2VyLXRyYWNlLnBuZ1tjYXB0aW9uPSJGaWd1cmUgMTogIiwgdGl0bGU9IkluZGl2aWR1YWwgdHJhY2UgY2FwdHVyZWQgZnJvbSB0aGUgSmFlZ2VyIEhvdFJvZCBleGFtcGxlIl0KZW5kaWY6OltdCmlmZGVmOjplbnYtZ2l0aHViW10KaW1hZ2U6Oi4uLy4uLy4uLy4uLy4uL2Fzc2V0cy9pbWcvYmxvZy8yMDE3LzIwMTctMDQtMTktamFlZ2VyLXRyYWNlLnBuZ1tjYXB0aW9uPSJGaWd1cmUgMTogIiwgdGl0bGU9IkluZGl2aWR1YWwgdHJhY2UgY2FwdHVyZWQgZnJvbSB0aGUgSmFlZ2VyIEhvdFJvZCBleGFtcGxlIl0KZW5kaWY6OltdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5qYWVnZXJ0cmFjaW5nLWt1YmV0bmV0ZXMtYWxsLWluLW9uZTwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Tm90ZSB0aGF0IHNvbWV0aW1lcyBpdCBpcyBuZWNlc3NhcnkgdG8gbG9naW4K</text>
+        <text encoding="base64">KiBaaXBraW46IGh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuemlwa2luL3ppcGtpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcXVpcmVzT3BlbnNoaWZ0Cg==</text>
+        <text encoding="base64">KiBIYXdrdWxhciBBUE06IGh0dHBzOi8vZ2l0aHViLmNvbS9oYXdrdWxhci9oYXdrdWxhci1hcG0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcXVpcmVzS3ViZXJuZXRlcwo=</text>
+        <text encoding="base64">KiBaaXBraW4gaW5zdHJ1bWVudGF0aW9uczogaHR0cDovL3ppcGtpbi5pby9wYWdlcy9leGlzdGluZ19pbnN0cnVtZW50YXRpb25zLmh0bWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9AUmVxdWlyZXNLdWJlcm5ldGVzCg==</text>
+        <text encoding="base64">KiBQb2x5Z2xvdCBleGFtcGxlOiBodHRwczovL2dpdGh1Yi5jb20vaGF3a3VsYXIvaGF3a3VsYXItYXBtL3RyZWUvbWFzdGVyL2V4YW1wbGVzL3BvbHlnbG90LXppcGtpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcnF1aWxsaWFuLmN1YmUucmVxdWlyZW1lbnQuQXJxdWlsbGlhbkNvbmRpdGlvbmFsUnVubmVyOwo=</text>
+        <text encoding="base64">PT0gTGlua3MK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wcm92ZWQgdG8gcHJvdmlkZSBhIHBvd2VyZnVsIHRvb2wgdG8gYW5hbHl6ZSB0aW1pbmcgZGF0YSBvZiBkaXN0cmlidXRlZCBhcHBsaWNhdGlvbnMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7151,8 +7158,8 @@
         <entry>311</entry>
         <entry>33</entry>
         <entry>333</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
