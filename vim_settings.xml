@@ -26,6 +26,9 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1495701426226">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-handler-interceptor/src/test/java/io/opentracing/contrib/spring/web/interceptor/app/SpringMVCConfiguration.java" timestamp="1486725375492">
         <mark key="[" line="34" column="87" />
         <mark key="]" line="35" column="54" />
@@ -1452,6 +1455,10 @@
         <mark key="^" line="49" column="52" />
         <mark key="." line="49" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/agent-opentracing/pom.xml" timestamp="1495701682680">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="208" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/common/src/main/java/io/opentracing/contrib/spring/web/interceptor/itest/common/RestTemplateITest.java" timestamp="1490188471931">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="46" column="4" />
@@ -2621,11 +2628,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495648944847">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="59" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="87" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495701831815">
+        <mark key="[" line="120" column="29" />
+        <mark key="]" line="126" column="39" />
+        <mark key="." line="126" column="39" />
+        <mark key="^" line="126" column="39" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/analytics-service-rest-client/src/main/java/org/hawkular/apm/analytics/service/rest/client/AnalyticsServiceRESTClient.java" timestamp="1480083212949">
         <mark key="[" line="103" column="5" />
@@ -4233,11 +4240,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/pom.xml" timestamp="1495645217675">
-        <mark key="[" line="63" column="59" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/pom.xml" timestamp="1495701233004">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="111" column="14" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/api/src/main/java/org/hawkular/apm/client/api/sampler/PercentageSampler.java" timestamp="1480501283741">
         <mark key="[" line="62" column="18" />
@@ -5399,11 +5406,11 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/README.md" timestamp="1495645607318">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/README.md" timestamp="1495701030974">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="72" />
+        <mark key="^" line="32" column="72" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-handler-interceptor/src/test/java/io/opentracing/mock/TextMapPropagator.java" timestamp="1484606818048">
         <mark key="[" line="48" column="0" />
@@ -7058,34 +7065,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2FjaGU6CiAgZGlyZWN0b3JpZXM6CiAgLSAkSE9NRS8ubTIvcmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tZmFpbHNhZmUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICA8dGhyZWFkQ291bnQ+MTwvdGhyZWFkQ291bnQ+CiAgICAgICAgICAgICAgPHRocmVhZENvdW50Q2xhc3Nlcz4xPC90aHJlYWRDb3VudENsYXNzZXM+CiAgICAgICAgICAgICAgPGFyZ0xpbmU+CiAgICAgICAgICAgICAgICAtamF2YWFnZW50OiR7aGF3a3VsYXItYXBtLmxpYn0vaGF3a3VsYXItYXBtLWFnZW50LW9wZW50cmFjaW5nLmphcgogICAgICAgICAgICAgICAgLURIQVdLVUxBUl9BUE1fVVJJPSR7aGF3a3VsYXIudXJpfQogICAgICAgICAgICAgICAgLURIQVdLVUxBUl9BUE1fTE9HX0xFVkVMPUlORk8KICAgICAgICAgICAgICAgIC1Eb3JnLmpib3NzLmJ5dGVtYW4udmVyYm9zZVhYCiAgICAgICAgICAgICAgPC9hcmdMaW5lPgogICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICA8aWQ+cnVuLWludGVncmF0aW9uLXRlc3RzPC9pZD4KICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgPGdvYWw+aW50ZWdyYXRpb24tdGVzdDwvZ29hbD4KICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioqLypJVGVzdC5qYXZhPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICA8aWQ+ZmluYWwtdmVyaWZ5PC9pZD4KICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgPGdvYWw+dmVyaWZ5PC9nb2FsPgogICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIGFsaWFzIG9jPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2FyZ0xpbmU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHNob3B0IC1zIGV4cGFuZF9hbGlhc2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC1Eb3JnLmpib3NzLmJ5dGVtYW4udmVyYm9zZVhYCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC1ESEFXS1VMQVJfQVBNX0xPR19MRVZFTD1JTkZPCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmVmb3JlX2luc3RhbGw6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC1ESEFXS1VMQVJfQVBNX1VSST0ke2hhd2t1bGFyLnVyaX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gcHJvY2VzcyB0ZW1wbGF0ZSBhbmQgcHV0IGl0IGludG8gdGFyZ2V0IHRlc3QgZGlyIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC1qYXZhYWdlbnQ6JHtoYXdrdWxhci1hcG0ubGlifS9oYXdrdWxhci1hcG0tYWdlbnQtb3BlbnRyYWNpbmcuamFyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YXJnTGluZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGFjdGl2YXRpZG9uPjwvYWN0aXZhdGlkb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGhyZWFkQ291bnRDbGFzc2VzPjE8L3RocmVhZENvdW50Q2xhc3Nlcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGhyZWFkQ291bnQ+MTwvdGhyZWFkQ291bnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
