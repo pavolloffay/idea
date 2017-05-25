@@ -784,11 +784,11 @@
         <mark key="." line="433" column="0" />
         <mark key="^" line="432" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/jaeger-contributions.adoc" timestamp="1495714743701">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="17" column="85" />
-        <mark key="^" line="17" column="85" />
-        <mark key="." line="17" column="85" />
+      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/jaeger-contributions.adoc" timestamp="1495723835005">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="99" />
+        <mark key="^" line="17" column="99" />
+        <mark key="." line="17" column="99" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/java-wildfly-swarm/src/main/java/org/hawkular/apm/example/swarm/rest/UserHandler.java" timestamp="1473404744003">
         <mark key="[" line="59" column="0" />
@@ -7097,31 +7097,31 @@
         <text encoding="base64">WyFbQnVpbGQgU3RhdHVzXVtjaS1pbWddXVtjaV0gWyFbUmVsZWFzZWQgVmVyc2lvbl1bbWF2ZW4taW1nXV1bbWF2ZW5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b25nb2luZyBjb250cmlidXRpb25zIHRvIEphZWdlciBwcm9qZWN0IHdlIHNldCB1cCBuZXcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IFdpdGggbW9yZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBaaXBraW46IGh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuemlwa2luL3ppcGtpbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KiBIYXdrdWxhciBBUE06IGh0dHBzOi8vZ2l0aHViLmNvbS9oYXdrdWxhci9oYXdrdWxhci1hcG0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KiBaaXBraW4gaW5zdHJ1bWVudGF0aW9uczogaHR0cDovL3ppcGtpbi5pby9wYWdlcy9leGlzdGluZ19pbnN0cnVtZW50YXRpb25zLmh0bWwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KiBQb2x5Z2xvdCBleGFtcGxlOiBodHRwczovL2dpdGh1Yi5jb20vaGF3a3VsYXIvaGF3a3VsYXItYXBtL3RyZWUvbWFzdGVyL2V4YW1wbGVzL3BvbHlnbG90LXppcGtpbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT0gTGlua3MK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KiBaaXBraW46IGh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuemlwa2luL3ppcGtpbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KiBIYXdrdWxhciBBUE06IGh0dHBzOi8vZ2l0aHViLmNvbS9oYXdrdWxhci9oYXdrdWxhci1hcG0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KiBaaXBraW4gaW5zdHJ1bWVudGF0aW9uczogaHR0cDovL3ppcGtpbi5pby9wYWdlcy9leGlzdGluZ19pbnN0cnVtZW50YXRpb25zLmh0bWwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KiBQb2x5Z2xvdCBleGFtcGxlOiBodHRwczovL2dpdGh1Yi5jb20vaGF3a3VsYXIvaGF3a3VsYXItYXBtL3RyZWUvbWFzdGVyL2V4YW1wbGVzL3BvbHlnbG90LXppcGtpbgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wcm92ZWQgdG8gcHJvdmlkZSBhIHBvd2VyZnVsIHRvb2wgdG8gYW5hbHl6ZSB0aW1pbmcgZGF0YSBvZiBkaXN0cmlidXRlZCBhcHBsaWNhdGlvbnMuCg==</text>
+        <text encoding="base64">PT0gTGlua3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
