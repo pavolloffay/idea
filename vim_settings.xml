@@ -4112,11 +4112,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/jaeger-all-in-one-template.yml" timestamp="1495642939856">
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="36" column="12" />
-        <mark key="^" line="36" column="12" />
-        <mark key="." line="36" column="12" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/jaeger-all-in-one-template.yml" timestamp="1495728505083">
+        <mark key="[" line="59" column="54" />
+        <mark key="]" line="59" column="53" />
+        <mark key="^" line="59" column="53" />
+        <mark key="." line="59" column="53" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/mvc/pom.xml" timestamp="1491220570529">
         <mark key="[" line="16" column="27" />
