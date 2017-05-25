@@ -2628,11 +2628,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495701831815">
-        <mark key="[" line="120" column="29" />
-        <mark key="]" line="126" column="39" />
-        <mark key="." line="126" column="39" />
-        <mark key="^" line="126" column="39" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/pom.xml" timestamp="1495704615711">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/analytics-service-rest-client/src/main/java/org/hawkular/apm/analytics/service/rest/client/AnalyticsServiceRESTClient.java" timestamp="1480083212949">
         <mark key="[" line="103" column="5" />
@@ -4240,11 +4240,10 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/pom.xml" timestamp="1495701233004">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="111" column="14" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/pom.xml" timestamp="1495704623075">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/api/src/main/java/org/hawkular/apm/client/api/sampler/PercentageSampler.java" timestamp="1480501283741">
         <mark key="[" line="62" column="18" />
@@ -5406,11 +5405,11 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/README.md" timestamp="1495701030974">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="72" />
-        <mark key="." line="32" column="72" />
-        <mark key="^" line="32" column="72" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/README.md" timestamp="1495704731456">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-handler-interceptor/src/test/java/io/opentracing/mock/TextMapPropagator.java" timestamp="1484606818048">
         <mark key="[" line="48" column="0" />
@@ -5658,10 +5657,10 @@
         <mark key="^" line="46" column="77" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/.travis.yml" timestamp="1495649033739">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/.travis.yml" timestamp="1495704858553">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing-java-jax-rs/jaxrs/src/main/java/io/opentracing/contrib/jaxrs/server/SpanDecorator.java" timestamp="1481639263915">
         <mark key="[" line="25" column="40" />
@@ -6569,6 +6568,11 @@
         <mark key="^" line="126" column="26" />
         <mark key="." line="126" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/all-in-one/src/test/java/io/jaegertracing/kubernetes/AllInOneETest.java" timestamp="1495704582393">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/ui/src/main/scripts/plugins/btm/ts/btm.ts" timestamp="1476800130959">
         <mark key="[" line="52" column="25" />
         <mark key="]" line="52" column="27" />
@@ -7065,34 +7069,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tZmFpbHNhZmUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICA8dGhyZWFkQ291bnQ+MTwvdGhyZWFkQ291bnQ+CiAgICAgICAgICAgICAgPHRocmVhZENvdW50Q2xhc3Nlcz4xPC90aHJlYWRDb3VudENsYXNzZXM+CiAgICAgICAgICAgICAgPGFyZ0xpbmU+CiAgICAgICAgICAgICAgICAtamF2YWFnZW50OiR7aGF3a3VsYXItYXBtLmxpYn0vaGF3a3VsYXItYXBtLWFnZW50LW9wZW50cmFjaW5nLmphcgogICAgICAgICAgICAgICAgLURIQVdLVUxBUl9BUE1fVVJJPSR7aGF3a3VsYXIudXJpfQogICAgICAgICAgICAgICAgLURIQVdLVUxBUl9BUE1fTE9HX0xFVkVMPUlORk8KICAgICAgICAgICAgICAgIC1Eb3JnLmpib3NzLmJ5dGVtYW4udmVyYm9zZVhYCiAgICAgICAgICAgICAgPC9hcmdMaW5lPgogICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICA8aWQ+cnVuLWludGVncmF0aW9uLXRlc3RzPC9pZD4KICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgPGdvYWw+aW50ZWdyYXRpb24tdGVzdDwvZ29hbD4KICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioqLypJVGVzdC5qYXZhPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICA8aWQ+ZmluYWwtdmVyaWZ5PC9pZD4KICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgPGdvYWw+dmVyaWZ5PC9nb2FsPgogICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAjIGNvbXBpbGUgamF2YSBzb3VyY2VzL3Rlc3RzLCBub3RlIHRoYXQgZTJlIHRlc3RzIGFyZSBpbiBwcm9maQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2FyZ0xpbmU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC1Eb3JnLmpib3NzLmJ5dGVtYW4udmVyYm9zZVhYCg==</text>
+        <text encoding="base64">ICA8cHJvZmlsZXM+CiAgICA8cHJvZmlsZT4KICAgICAgPGlkPmUyZTwvaWQ+CiAgICAgIDxidWlsZD4KICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgIDwhLS0gcHJvY2VzcyB0ZW1wbGF0ZSBhbmQgcHV0IGl0IGludG8gdGFyZ2V0IHRlc3QgZGlyIC0tPgogICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLm1vam88L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmV4ZWMtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3ZlcnNpb24ubWF2ZW4tZXhlYy1wbHVnaW59PC92ZXJzaW9uPgogICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPGlkPnByb2Nlc3Mtb2MtdGVtcGxhdGU8L2lkPgogICAgICAgICAgICAgICAgPHBoYXNlPnByb2Nlc3MtdGVzdC1yZXNvdXJjZXM8L3BoYXNlPgogICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICA8Z29hbD5leGVjPC9nb2FsPgogICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICA8ZXhlY3V0YWJsZT5vYzwvZXhlY3V0YWJsZT4KICAgICAgICAgICAgICAgICAgPGNvbW1hbmRsaW5lQXJncz5wcm9jZXNzIC1mICR7cHJvamVjdC5iYXNlZGlyfS8ke3RlbXBsYXRlLm5hbWV9IC1vPXlhbWw8L2NvbW1hbmRsaW5lQXJncz4KICAgICAgICAgICAgICAgICAgPG91dHB1dEZpbGU+JHtwcm9qZWN0LmJ1aWxkLnRlc3RPdXRwdXREaXJlY3Rvcnl9LyR7dGVtcGxhdGUubmFtZX08L291dHB1dEZpbGU+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tZmFpbHNhZmUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3ZlcnNpb24ubWF2ZW4tZmFpbHNhZmUtcGx1Z2lufTwvdmVyc2lvbj4KICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDxpZD5ydW4taW50ZWdyYXRpb24tdGVzdHM8L2lkPgogICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICA8Z29hbD5pbnRlZ3JhdGlvbi10ZXN0PC9nb2FsPgogICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+KiovKkVUZXN0LmphdmE8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgIDxzeXN0ZW1Qcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eT4KICAgICAgICAgICAgICAgICAgICAgIDxuYW1lPmVudi5jb25maWcucmVzb3VyY2UubmFtZTwvbmFtZT4KICAgICAgICAgICAgICAgICAgICAgIDx2YWx1ZT4ke3RlbXBsYXRlLm5hbWV9PC92YWx1ZT4KICAgICAgICAgICAgICAgICAgICA8L3Byb3BlcnR5PgogICAgICAgICAgICAgICAgICA8L3N5c3RlbVByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDxpZD52ZXJpZnk8L2lkPgogICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICA8Z29hbD52ZXJpZnk8L2dvYWw+CiAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICA8L3BsdWdpbnM+CiAgICAgIDwvYnVpbGQ+CiAgICA8L3Byb2ZpbGU+CiAgPC9wcm9maWxlcz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC1ESEFXS1VMQVJfQVBNX0xPR19MRVZFTD1JTkZPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC1ESEFXS1VMQVJfQVBNX1VSST0ke2hhd2t1bGFyLnVyaX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC1qYXZhYWdlbnQ6JHtoYXdrdWxhci1hcG0ubGlifS9oYXdrdWxhci1hcG0tYWdlbnQtb3BlbnRyYWNpbmcuamFyCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT3BlblNoaWZ0Q2xpZW50IGNsaWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YXJnTGluZT4K</text>
+        <text encoding="base64">ICAgIEBBcnF1aWxsaWFuUmVzb3VyY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGhyZWFkQ291bnRDbGFzc2VzPjE8L3RocmVhZENvdW50Q2xhc3Nlcz4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvcGx1Z2luPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGhyZWFkQ291bnQ+MTwvdGhyZWFkQ291bnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
