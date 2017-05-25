@@ -940,10 +940,11 @@
         <mark key="." line="104" column="25" />
         <mark key="^" line="104" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/pom.xml" timestamp="1495706055197">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/pom.xml" timestamp="1495707986722">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/java-dropwizard/README.adoc" timestamp="1476450789479">
         <mark key="[" line="0" column="1" />
@@ -2009,10 +2010,11 @@
         <mark key="^" line="660" column="0" />
         <mark key="." line="1007" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/pom.xml" timestamp="1495706454094">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/all-in-one/pom.xml" timestamp="1495707977067">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/InterfaceIpV4Address.java" timestamp="1474991310553">
         <mark key="[" line="34" column="26" />
@@ -7079,31 +7081,31 @@
         <text encoding="base64">ICA8YnVpbGQ+CiAgICA8IS0tIENvcHkgdGVtcGxhdGUgdG8gdGVzdCByZXNvdXJjZXMgLS0+CiAgICA8cmVzb3VyY2VzPgogICAgICA8cmVzb3VyY2U+CiAgICAgICAgPGRpcmVjdG9yeT4ke3Byb2plY3QuYmFzZWRpcn08L2RpcmVjdG9yeT4KICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICA8aW5jbHVkZT4ke3RlbXBsYXRlLm5hbWV9PC9pbmNsdWRlPgogICAgICAgIDwvaW5jbHVkZXM+CiAgICAgIDwvcmVzb3VyY2U+CiAgICAgIDxyZXNvdXJjZT4KICAgICAgICA8ZGlyZWN0b3J5PnNyYy90ZXN0L3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICA8L3Jlc291cmNlPgogICAgPC9yZXNvdXJjZXM+CiAgICA8cGx1Z2lucz4KICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zdXJlZmlyZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+Mi4yMDwvdmVyc2lvbj4KICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxzeXN0ZW1Qcm9wZXJ0eVZhcmlhYmxlcz4KICAgICAgICAgICAgPGVudi5jb25maWcucmVzb3VyY2UubmFtZT4ke3RlbXBsYXRlLm5hbWV9PC9lbnYuY29uZmlnLnJlc291cmNlLm5hbWU+CiAgICAgICAgICA8L3N5c3RlbVByb3BlcnR5VmFyaWFibGVzPgogICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgPC9wbHVnaW4+CiAgICA8L3BsdWdpbnM+CiAgPC9idWlsZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Tm90ZSB0aGF0IHNvbWV0aW1lcyBpdCBpcyBuZWNlc3NhcnkgdG8gbG9naW4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QFJlcXVpcmVzT3BlbnNoaWZ0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QFJlcXVpcmVzS3ViZXJuZXRlcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9AUmVxdWlyZXNLdWJlcm5ldGVzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcnF1aWxsaWFuLmN1YmUucmVxdWlyZW1lbnQuQXJxdWlsbGlhbkNvbmRpdGlvbmFsUnVubmVyOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5qYWVnZXJ0cmFjaW5nLWt1YmV0bmV0ZXMtYWxsLWluLW9uZTwvYXJ0aWZhY3RJZD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Tm90ZSB0aGF0IHNvbWV0aW1lcyBpdCBpcyBuZWNlc3NhcnkgdG8gbG9naW4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QFJlcXVpcmVzT3BlbnNoaWZ0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QFJlcXVpcmVzS3ViZXJuZXRlcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly9AUmVxdWlyZXNLdWJlcm5ldGVzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcnF1aWxsaWFuLmN1YmUucmVxdWlyZW1lbnQuQXJxdWlsbGlhbkNvbmRpdGlvbmFsUnVubmVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2J1aWxkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8YnVpbGQ+Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
