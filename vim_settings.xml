@@ -784,6 +784,12 @@
         <mark key="." line="433" column="0" />
         <mark key="^" line="432" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/jaeger-contributions.adoc" timestamp="1495711660243">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/java-wildfly-swarm/src/main/java/org/hawkular/apm/example/swarm/rest/UserHandler.java" timestamp="1473404744003">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="60" column="8" />
@@ -4990,6 +4996,9 @@
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/hawkular-apm-polyglot-zipkin.adoc" timestamp="1495711568385">
+        <mark key="[" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/elasticsearch/src/test/resources/hawkular-elasticsearch.properties" timestamp="1470237180485">
         <mark key="[" line="167" column="37" />
