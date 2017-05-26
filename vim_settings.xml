@@ -1199,7 +1199,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/uber/jaeger/jaeger-core/0.18.0/jaeger-core-0.18.0-sources.jar!/com/uber/jaeger/Configuration.java" timestamp="1495808703791" />
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/services/SpanService.java" timestamp="1470055280286">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="25" />
@@ -2158,7 +2157,7 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/opentracing-demo/src/main/java/com/example/opentracingdemo/OpentracingDemoApplication.java" timestamp="1495810395311">
+      <file name="$USER_HOME$/Downloads/opentracing-demo/src/main/java/com/example/opentracingdemo/OpentracingDemoApplication.java" timestamp="1495811047297">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="8" />
         <mark key="." line="35" column="8" />
@@ -3165,7 +3164,6 @@
         <mark key="." line="50" column="56" />
         <mark key="^" line="50" column="56" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/zipkin/reporter/zipkin-reporter/0.10.0/zipkin-reporter-0.10.0.jar!/zipkin/reporter/Reporter.class" timestamp="1495809885351" />
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2-itest/resteasy/src/test/java/io/opentracing/contrib/jaxrs2/itest/resteasy/RestEasyClientITest.java" timestamp="1494509947142">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="13" column="44" />
