@@ -1770,11 +1770,11 @@
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo-opentracing/pom.xml" timestamp="1495814116907">
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="42" column="20" />
-        <mark key="." line="42" column="20" />
+      <file name="$USER_HOME$/Downloads/demo-opentracing/pom.xml" timestamp="1495814872639">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/zipkin-dropwizard/pom.xml" timestamp="1472565908195">
         <mark key="[" line="60" column="51" />
@@ -5440,11 +5440,11 @@
         <mark key="^" line="153" column="5" />
         <mark key="." line="153" column="5" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo-opentracing/src/main/java/com/example/demoopentracing/DemoOpentracingApplication.java" timestamp="1495814361477">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="34" column="4" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/Downloads/demo-opentracing/src/main/java/com/example/demoopentracing/DemoOpentracingApplication.java" timestamp="1495814903381">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/ui/src/main/scripts/plugins/directives/instance-view-diagram/ts/instanceViewDiagramDirective.ts" timestamp="1474547352932">
         <mark key="[" line="74" column="25" />
@@ -5804,10 +5804,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/demo-opentracing/src/main/java/com/example/demoopentracing/HelloController.java" timestamp="1495814339550">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Downloads/demo-opentracing/src/main/java/com/example/demoopentracing/HelloController.java" timestamp="1495814751366">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/main/java/org/hawkular/apm/server/api/SpanStore.java" timestamp="1485969066337">
         <mark key="[" line="28" column="18" />
@@ -7137,28 +7138,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJyYXZlLlNwYW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGJyYXZlLlNwYW47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5jbG8K</text>
+        <text encoding="base64">aW1wb3J0IGJyYXZlLlNwYW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5jbG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBIZWxsb0NvbnRyb2xsZXIoKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBIZWxsb0NvbnRyb2xsZXIoKSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
