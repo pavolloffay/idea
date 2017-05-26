@@ -3033,11 +3033,10 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/logging/Logger.java" timestamp="1481126696587">
-        <mark key="[" line="31" column="52" />
-        <mark key="]" line="89" column="22" />
-        <mark key="." line="89" column="22" />
-        <mark key="^" line="89" column="22" />
+      <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/logging/Logger.java" timestamp="1495795546995">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-http-components/opentracing-apache-http-client/pom.xml" timestamp="1493212349129">
         <mark key="[" line="28" column="0" />
@@ -7100,31 +7099,31 @@
         <text encoding="base64">WyFbQnVpbGQgU3RhdHVzXVtjaS1pbWddXVtjaV0gWyFbUmVsZWFzZWQgVmVyc2lvbl1bbWF2ZW4taW1nXV1bbWF2ZW5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b25nb2luZyBjb250cmlidXRpb25zIHRvIEphZWdlciBwcm9qZWN0IHdlIHNldCB1cCBuZXcK</text>
+        <text encoding="base64">ICAgICAgICBhLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IFdpdGggbW9yZQo=</text>
+        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0IGEgPW5ldyBMaW5rZWRMaXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b25nb2luZyBjb250cmlidXRpb25zIHRvIEphZWdlciBwcm9qZWN0IHdlIHNldCB1cCBuZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiBaaXBraW46IGh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuemlwa2luL3ppcGtpbgo=</text>
+        <text encoding="base64">IFdpdGggbW9yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBIYXdrdWxhciBBUE06IGh0dHBzOi8vZ2l0aHViLmNvbS9oYXdrdWxhci9oYXdrdWxhci1hcG0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBaaXBraW4gaW5zdHJ1bWVudGF0aW9uczogaHR0cDovL3ppcGtpbi5pby9wYWdlcy9leGlzdGluZ19pbnN0cnVtZW50YXRpb25zLmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBQb2x5Z2xvdCBleGFtcGxlOiBodHRwczovL2dpdGh1Yi5jb20vaGF3a3VsYXIvaGF3a3VsYXItYXBtL3RyZWUvbWFzdGVyL2V4YW1wbGVzL3BvbHlnbG90LXppcGtpbgo=</text>
+        <text encoding="base64">KiBaaXBraW46IGh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuemlwa2luL3ppcGtpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT0gTGlua3MK</text>
+        <text encoding="base64">KiBIYXdrdWxhciBBUE06IGh0dHBzOi8vZ2l0aHViLmNvbS9oYXdrdWxhci9oYXdrdWxhci1hcG0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
