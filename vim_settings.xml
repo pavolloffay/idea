@@ -1668,6 +1668,12 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="24" column="6" />
       </file>
+      <file name="$USER_HOME$/Downloads/opentracing-demo/src/main/java/com/example/opentracingdemo/HelloController.java" timestamp="1495808091224">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/main/java/org/hawkular/apm/server/api/utils/JMSZipkinSpanConsumer.java" timestamp="1475925836784">
         <mark key="[" line="45" column="63" />
         <mark key="]" line="45" column="71" />
@@ -2144,6 +2150,11 @@
         <mark key="]" line="22" column="39" />
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/Downloads/opentracing-demo/src/main/java/com/example/opentracingdemo/OpentracingDemoApplication.java" timestamp="1495807871717">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/.travis.yml" timestamp="1479857903364">
         <mark key="[" line="0" column="14" />
@@ -7099,31 +7110,31 @@
         <text encoding="base64">WyFbQnVpbGQgU3RhdHVzXVtjaS1pbWddXVtjaV0gWyFbUmVsZWFzZWQgVmVyc2lvbl1bbWF2ZW4taW1nXV1bbWF2ZW5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhLgo=</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0IGEgPW5ldyBMaW5rZWRMaXN0KCk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b25nb2luZyBjb250cmlidXRpb25zIHRvIEphZWdlciBwcm9qZWN0IHdlIHNldCB1cCBuZXcK</text>
+        <text encoding="base64">CXB1YmxpYyBzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IFdpdGggbW9yZQo=</text>
+        <text encoding="base64">ICAgICAgICBhLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0IGEgPW5ldyBMaW5rZWRMaXN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBaaXBraW46IGh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuemlwa2luL3ppcGtpbgo=</text>
+        <text encoding="base64">b25nb2luZyBjb250cmlidXRpb25zIHRvIEphZWdlciBwcm9qZWN0IHdlIHNldCB1cCBuZXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBIYXdrdWxhciBBUE06IGh0dHBzOi8vZ2l0aHViLmNvbS9oYXdrdWxhci9oYXdrdWxhci1hcG0K</text>
+        <text encoding="base64">IFdpdGggbW9yZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
