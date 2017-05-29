@@ -47,7 +47,6 @@
         <mark key="^" line="81" column="34" />
         <mark key="." line="81" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-util/0.30.0/opentracing-util-0.30.0.jar!/io/opentracing/util/ThreadLocalActiveSpan.class" timestamp="1496044911690" />
       <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-mock/src/main/java/io/opentracing/mock/ThreadLocalSpanManager.java" timestamp="1490735894424">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -416,7 +415,6 @@
         <mark key="^" line="10" column="84" />
         <mark key="." line="10" column="84" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-noop/0.30.0/opentracing-noop-0.30.0.jar!/io/opentracing/NoopActiveSpanSource.class" timestamp="1496044408126" />
       <file name="$USER_HOME$/projects/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/A.java" timestamp="1483452764838">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="12" column="0" />
@@ -2860,7 +2858,6 @@
         <mark key="." line="59" column="34" />
         <mark key="^" line="59" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-mock/0.30.0/opentracing-mock-0.30.0.jar!/io/opentracing/mock/MockSpan.class" timestamp="1496044260238" />
       <file name="$USER_HOME$/projects/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/ServerTracingDynamicFeature.java" timestamp="1483456003055">
         <mark key="[" line="102" column="11" />
         <mark key="]" line="103" column="30" />
@@ -5453,11 +5450,6 @@
         <mark key="]" line="102" column="4" />
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-openshift/README.md" timestamp="1495706854384">
-        <mark key="[" line="32" column="80" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-handler-interceptor/src/test/java/io/opentracing/mock/TextMapPropagator.java" timestamp="1484606818048">
         <mark key="[" line="48" column="0" />
