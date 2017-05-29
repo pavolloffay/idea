@@ -1344,11 +1344,11 @@
         <mark key="." line="49" column="4" />
         <mark key="^" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-jaxrs/pom.xml" timestamp="1494851892675">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="79" column="35" />
+      <file name="$USER_HOME$/projects/opentracing/java-jaxrs/pom.xml" timestamp="1496060526836">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="43" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/elasticsearch/src/test/java/org/hawkular/apm/server/elasticsearch/SpanServiceElasticsearchTest.java" timestamp="1475966534382">
         <mark key="[" line="538" column="53" />
@@ -2171,8 +2171,8 @@
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/README.md" timestamp="1495716374198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="68" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/processors/src/main/java/org/hawkular/apm/server/processor/tracecompletiontime/TraceCompletionInformation.java" timestamp="1476816641255">
         <mark key="[" line="76" column="77" />
@@ -4350,7 +4350,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496042342003">
+      <file name="/Dummy.txt" timestamp="1496060418311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
