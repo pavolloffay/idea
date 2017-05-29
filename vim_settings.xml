@@ -780,11 +780,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="73" column="105" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/common/src/test/java/io/opentracing/contrib/spring/web/interceptor/itest/common/AbstractBaseITests.java" timestamp="1494338462795">
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="77" />
-        <mark key="." line="435" column="0" />
-        <mark key="^" line="434" column="44" />
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/common/src/test/java/io/opentracing/contrib/spring/web/interceptor/itest/common/AbstractBaseITests.java" timestamp="1496072973927">
+        <mark key="[" line="452" column="117" />
+        <mark key="]" line="205" column="32" />
+        <mark key="." line="205" column="32" />
+        <mark key="^" line="205" column="32" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/05/25/jaeger-contributions.adoc" timestamp="1495723835005">
         <mark key="[" line="17" column="2" />
@@ -1026,10 +1026,11 @@
         <mark key="." line="20" column="56" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-spring-web/pom.xml" timestamp="1496062307864">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/pom.xml" timestamp="1496075482763">
+        <mark key="[" line="43" column="81" />
+        <mark key="]" line="43" column="71" />
+        <mark key="." line="43" column="71" />
+        <mark key="^" line="43" column="71" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2-itest/common/src/main/java/io/opentracing/contrib/jaxrs2/itest/common/AbstractJettyTest.java" timestamp="1494510732041">
         <mark key="[" line="37" column="43" />
@@ -1712,6 +1713,7 @@
         <mark key="^" line="15" column="112" />
         <mark key="." line="15" column="112" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/common/src/test/java/io/opentracing/contrib/spring/web/interceptor/itest/common/app/TestController.java" timestamp="1496064740607" />
       <file name="$USER_HOME$/tmp/hawkular-apm/server/rest/src/main/java/org/hawkular/apm/server/rest/AnalyticsHandler.java" timestamp="1471004603358">
         <mark key="[" line="618" column="39" />
         <mark key="]" line="618" column="38" />
@@ -1772,6 +1774,7 @@
         <mark key="." line="60" column="56" />
         <mark key="^" line="60" column="56" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/AsyncHandlerInterceptor.java" timestamp="1496064734881" />
       <file name="$USER_HOME$/projects/httpclient/httpclient5-testing/src/test/java/org/apache/hc/client5/testing/sync/TestTracing.java" timestamp="1494362230025">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="63" column="4" />
@@ -2857,6 +2860,12 @@
         <mark key="." line="59" column="34" />
         <mark key="^" line="59" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web/src/main/java/io/opentracing/contrib/spring/web/interceptor/HandlerInterceptorSpanDecorator.java" timestamp="1496064587914">
+        <mark key="[" line="46" column="64" />
+        <mark key="]" line="44" column="68" />
+        <mark key="^" line="44" column="68" />
+        <mark key="." line="44" column="68" />
+      </file>
       <file name="$USER_HOME$/projects/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/ServerTracingDynamicFeature.java" timestamp="1483456003055">
         <mark key="[" line="102" column="11" />
         <mark key="]" line="103" column="30" />
@@ -3462,6 +3471,7 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-util/0.30.0/opentracing-util-0.30.0-sources.jar!/io/opentracing/util/ThreadLocalActiveSpan.java" timestamp="1496072267677" />
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/test/java/org/hawkular/apm/api/model/PropertyTest.java" timestamp="1478696897158">
         <mark key="[" line="58" column="31" />
         <mark key="]" line="58" column="31" />
@@ -4343,7 +4353,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496060418311">
+      <file name="/Dummy.txt" timestamp="1496064522139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
@@ -4664,6 +4674,7 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/opentracing/contrib/opentracing-web-servlet-filter/0.0.9-SNAPSHOT/opentracing-web-servlet-filter-0.0.9-SNAPSHOT.jar!/io/opentracing/contrib/web/servlet/filter/TracingFilter.class" timestamp="1496073082786" />
       <file name="$USER_HOME$/tmp/hawkular-apm/client/otagent/src/main/java/org/hawkular/apm/otagent/propagation/jax/HttpServletRequestExtractAdapter.java" timestamp="1477321758990">
         <mark key="[" line="57" column="95" />
         <mark key="]" line="57" column="94" />
@@ -4777,6 +4788,11 @@
         <mark key="]" line="12" column="48" />
         <mark key="." line="12" column="48" />
         <mark key="^" line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/opentracing/java-web-servlet-filter/opentracing-web-servlet-filter/src/main/java/io/opentracing/contrib/web/servlet/filter/TracingFilter.java" timestamp="1496073058181">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/java-dropwizard/src/main/java/org/hawkular/apm/example/UserDAO.java" timestamp="1473327249019">
         <mark key="[" line="33" column="5" />
@@ -5438,6 +5454,12 @@
         <mark key="." line="74" column="25" />
         <mark key="^" line="74" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web/src/test/java/io/opentracing/contrib/spring/web/client/TracingAsyncRestTemplateTest.java" timestamp="1496074885072">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="118" column="11" />
+        <mark key="." line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-handler-interceptor/src/test/java/io/opentracing/mock/TextMapPropagator.java" timestamp="1484606818048">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -5491,6 +5513,12 @@
         <mark key="]" line="32" column="37" />
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web/src/main/java/io/opentracing/contrib/spring/web/interceptor/TracingHandlerInterceptor.java" timestamp="1496075158716">
+        <mark key="[" line="30" column="101" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-http-components/opentracing-apache-http-client/src/test/java/io/opentracing/contrib/apache/TracingHttpClientBuilderTest.java" timestamp="1493212716864">
         <mark key="[" line="242" column="0" />
@@ -6287,7 +6315,7 @@
         <mark key="^" line="256" column="33" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496045762098">
+      <file name="/fragment.java" timestamp="1496068984110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2/src/main/java/io/opentracing/contrib/jaxrs2/server/ServerTracingDynamicFeature.java" timestamp="1494862343212">
@@ -7099,34 +7127,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZXF1ZTxBY3RpdmVTcGFuPiBzdGFjazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci4+MS43PC9tYXZlbi5jb21waWxlci4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LQo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBSdW4gUmVtb3RlUmVwb3J0ZXIncyBmbHVzaCB0aW1lciBpbiBkYWVtb24gdGhyZWFkIChodHRwczovL2dpdGh1Yi5jb20vdWJlci9qYWVnZXItY2xpZW50LWphdmEvcHVsbC8xMjQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBBZGQgSmF2YSA2IGNvbXBhdGliaWxpdHkgKGh0dHBzOi8vZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtamF2YS9wdWxsLzEzMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE1vY2tTcGFuIHBhcmVudFNwYW4pIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnRTcGFucy5mb3JFYWNoKG5ldyBDb25zdW1lcjxNb2NrU3Bhbj4oKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIeXN0cml4UmVxdWVzdENvbnRleHQuaXNDdXJyZW50VGhyZWFkSW5pdGlhbGl6ZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2tTcGFuIGNoaWxkU3BhbiA9IGNoaWxkU3BhbnMuZ2V0KHBhcmVudFNwYW4uY29udGV4dCgpLnNwYW5JZCgpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocGFyZW50U3Bhbi50YWdzKCkuZ2V0KCJyZXF1ZXN0LXVybCIpLCBjaGlsZFNwYW4udGFncygpLmdldChUYWdzLkhUVFBfVVJMLmdldEtleSgpKSk7CgogICAgICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhwYXJlbnRTcGFuLmNvbnRleHQoKS50cmFjZUlkKCksIGNoaWxkU3Bhbi5jb250ZXh0KCkudHJhY2VJZCgpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocGFyZW50U3Bhbi5jb250ZXh0KCkuc3BhbklkKCksIGNoaWxkU3Bhbi5wYXJlbnRJZCgpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMCwgY2hpbGRTcGFuLmdlbmVyYXRlZEVycm9ycygpLnNpemUoKSk7CiAgICAgICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDAsIHBhcmVudFNwYW4uZ2VuZXJhdGVkRXJyb3JzKCkuc2l6ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7146,7 +7174,6 @@
         <entry encoding="base64">XDxyZlw+</entry>
       </history-search>
       <history-cmd>
-        <entry>1532</entry>
         <entry>152</entry>
         <entry>182</entry>
         <entry>299</entry>
@@ -7165,6 +7192,7 @@
         <entry>333</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>&quot;W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
