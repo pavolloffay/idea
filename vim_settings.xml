@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/pom.xml" timestamp="1495288579260">
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/pom.xml" timestamp="1496046750502">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="43" column="16" />
         <mark key="." line="21" column="0" />
@@ -47,6 +47,7 @@
         <mark key="^" line="81" column="34" />
         <mark key="." line="81" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-util/0.30.0/opentracing-util-0.30.0.jar!/io/opentracing/util/ThreadLocalActiveSpan.class" timestamp="1496044911690" />
       <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-mock/src/main/java/io/opentracing/mock/ThreadLocalSpanManager.java" timestamp="1490735894424">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -287,11 +288,10 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-hystrix-opentracing/pom.xml" timestamp="1490863498364">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="43" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="4" column="43" />
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-hystrix-opentracing/pom.xml" timestamp="1496047081646">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/golang/src/github.com/uber/jaeger/cmd/standalone/jaeger-all-in-one-openshift-template.yml" timestamp="1492530184227">
         <mark key="[" line="64" column="0" />
@@ -416,6 +416,7 @@
         <mark key="^" line="10" column="84" />
         <mark key="." line="10" column="84" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-noop/0.30.0/opentracing-noop-0.30.0.jar!/io/opentracing/NoopActiveSpanSource.class" timestamp="1496044408126" />
       <file name="$USER_HOME$/projects/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/A.java" timestamp="1483452764838">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="12" column="0" />
@@ -1129,10 +1130,6 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/resources/arquillian.xml" timestamp="1495631163843">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="76" />
-      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/test/resources/testVertxOpenTracing/test.json" timestamp="1483460863227">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
@@ -1468,10 +1465,6 @@
         <mark key="]" line="49" column="52" />
         <mark key="^" line="49" column="52" />
         <mark key="." line="49" column="52" />
-      </file>
-      <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/agent-opentracing/pom.xml" timestamp="1495701682680">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="208" column="18" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web-itest/common/src/main/java/io/opentracing/contrib/spring/web/interceptor/itest/common/RestTemplateITest.java" timestamp="1490188471931">
         <mark key="[" line="28" column="0" />
@@ -1961,10 +1954,6 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/kubernetes/ftest-kubernetes/pom.xml" timestamp="1495612935018">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="26" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/processors/zipkin/src/main/java/org/hawkular/apm/processor/zipkin/FragmentCompletionTimeDeriver.java" timestamp="1472652980727">
         <mark key="[" line="49" column="61" />
         <mark key="]" line="55" column="59" />
@@ -2253,11 +2242,11 @@
         <mark key="^" line="14" column="82" />
         <mark key="." line="14" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-hystrix-opentracing/src/main/java/feign/opentracing/hystrix/TracingConcurrencyStrategy.java" timestamp="1490603687725">
-        <mark key="[" line="49" column="93" />
-        <mark key="]" line="50" column="49" />
-        <mark key="^" line="50" column="49" />
-        <mark key="." line="50" column="49" />
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-hystrix-opentracing/src/main/java/feign/opentracing/hystrix/TracingConcurrencyStrategy.java" timestamp="1496047847282">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="84" column="32" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/jms/src/main/java/org/hawkular/apm/server/jms/span/CompletionTimeMDB.java" timestamp="1473077877108">
         <mark key="[" line="54" column="48" />
@@ -2685,6 +2674,12 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-hystrix-opentracing/src/test/java/feign/opentracing/hystrix/HystrixFeignTracingTest.java" timestamp="1496043626951">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="53" />
+        <mark key="^" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+      </file>
       <file name="$USER_HOME$/projects/webapp/src/main/java/sk/loffay/RestHandler.java" timestamp="1473162236897">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="15" column="2" />
@@ -2865,6 +2860,7 @@
         <mark key="." line="59" column="34" />
         <mark key="^" line="59" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/opentracing/opentracing-mock/0.30.0/opentracing-mock-0.30.0.jar!/io/opentracing/mock/MockSpan.class" timestamp="1496044260238" />
       <file name="$USER_HOME$/projects/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/ServerTracingDynamicFeature.java" timestamp="1483456003055">
         <mark key="[" line="102" column="11" />
         <mark key="]" line="103" column="30" />
@@ -3470,10 +3466,6 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="/pom.xml" timestamp="1495706094722">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="82" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/test/java/org/hawkular/apm/api/model/PropertyTest.java" timestamp="1478696897158">
         <mark key="[" line="58" column="31" />
         <mark key="]" line="58" column="31" />
@@ -3647,10 +3639,6 @@
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
         <mark key="^" line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/pom.xml" timestamp="1495613753189">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="66" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/events/CompletionTime.java" timestamp="1476718519637">
         <mark key="[" line="154" column="60" />
@@ -3856,9 +3844,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/pom.xml" timestamp="1495621751963">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="67" />
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/pom.xml" timestamp="1496046731988">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="79" />
         <mark key="." line="45" column="35" />
         <mark key="^" line="45" column="35" />
       </file>
@@ -3975,6 +3963,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
         <mark key="^" line="97" column="72" />
+      </file>
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-opentracing/src/test/java/feign/opentracing/FeignTracingTest.java" timestamp="1496047806986">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/java-dropwizard/src/main/java/org/hawkular/apm/example/rest/UsersHandler.java" timestamp="1473335519421">
         <mark key="[" line="70" column="0" />
@@ -4329,11 +4322,13 @@
         <mark key="." line="68" column="72" />
         <mark key="^" line="68" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-feign/pom.xml" timestamp="1493900636956">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="104" column="22" />
-        <mark key="." line="58" column="41" />
-        <mark key="^" line="58" column="41" />
+      <file name="$USER_HOME$/projects/opentracing/java-feign/pom.xml" timestamp="1496046738065">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-opentracing/src/main/java/feign/opentracing/FeignSpanDecorator.java" timestamp="1496043074352">
+        <mark key="[" line="26" column="66" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/ServerHeadersExtractTextMap.java" timestamp="1485356595207">
         <mark key="[" line="33" column="0" />
@@ -4352,7 +4347,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495712855318">
+      <file name="/Dummy.txt" timestamp="1496042342003">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
@@ -4853,11 +4848,10 @@
         <mark key="^" line="2" column="61" />
         <mark key="." line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-opentracing/pom.xml" timestamp="1490863436282">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="4" column="43" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="4" column="43" />
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-opentracing/pom.xml" timestamp="1496047070556">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/elasticsearch/src/main/java/org/hawkular/apm/server/elasticsearch/SpanServiceElasticsearch.java" timestamp="1485969032523">
         <mark key="[" line="174" column="0" />
@@ -5034,10 +5028,6 @@
         <mark key="]" line="167" column="35" />
         <mark key="^" line="167" column="35" />
         <mark key="." line="167" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/jaeger/jaeger-kubernetes/.gitignore" timestamp="1495645238995">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/ZipKinFilter.java" timestamp="1491224557801">
         <mark key="[" line="23" column="0" />
@@ -5673,6 +5663,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-opentracing/src/test/java/feign/opentracing/AbstractFeignTracingTest.java" timestamp="1496046811159">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="128" column="22" />
+        <mark key="." line="128" column="22" />
+        <mark key="^" line="128" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/opentracing/src/test/java/org/hawkular/apm/client/opentracing/APMTracerReferenceTest.java" timestamp="1480423502947">
         <mark key="[" line="471" column="0" />
         <mark key="]" line="479" column="4" />
@@ -5899,10 +5895,6 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest/src/test/resources/arquillian.xml" timestamp="1495630810695">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="80" />
-      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/tests/instrumentation-framework/src/main/java/org/hawkular/apm/tests/dockerized/model/TestCase.java" timestamp="1469697230333">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="34" column="69" />
@@ -6087,10 +6079,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="^" line="79" column="46" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/java/org/arquillian/cube/openshift/standalone/HelloWorldTest.java" timestamp="1495631103678">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/projects/wildfly-swarm/fractions/opentracing-jaxrs/src/main/java/org/wildfly/swarm/opentracing/jaxrs/deployment/TracingDynamicFeature.java" timestamp="1481228035233">
         <mark key="[" line="25" column="0" />
@@ -6326,6 +6314,9 @@
         <mark key="^" line="256" column="33" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1496045762098">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2/src/main/java/io/opentracing/contrib/jaxrs2/server/ServerTracingDynamicFeature.java" timestamp="1494862343212">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -6349,10 +6340,6 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/hawkular/hawkular.github.io/src/main/jbake/content/blog/2017/04/19/hawkular-apm-jaeger.adoc" timestamp="1495714465259">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="41" column="8" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-http-components/opentracing-apache-http-client/src/main/java/io/opentracing/contrib/apache/internal/HttpHeadersInjectAdapter.java" timestamp="1489752889642">
         <mark key="[" line="27" column="0" />
@@ -6570,9 +6557,9 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/test/java/io/opentracing/contrib/okhttp3/TracingInterceptorTest.java" timestamp="1494845143657">
-        <mark key="[" line="223" column="29" />
-        <mark key="]" line="225" column="0" />
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/test/java/io/opentracing/contrib/okhttp3/TracingInterceptorTest.java" timestamp="1496047165884">
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="354" column="4" />
         <mark key="^" line="225" column="83" />
         <mark key="." line="225" column="0" />
       </file>
@@ -6911,6 +6898,12 @@
         <mark key="^" line="15" column="83" />
         <mark key="." line="15" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-feign/feign-opentracing/src/main/java/feign/opentracing/TracingClient.java" timestamp="1496047771184">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-http-components/opentracing-apache-http-client/src/main/java/io/opentracing/contrib/apache/HttpClientBuilder.java" timestamp="1492861450044">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="30" column="52" />
@@ -6958,10 +6951,6 @@
         <mark key="]" line="24" column="37" />
         <mark key="^" line="24" column="37" />
         <mark key="." line="24" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/arquillian-cube/openshift/ftest-standalone/src/test/resources/hello-openshift.json" timestamp="1495633887776">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="81" column="35" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/opentracing-jaxrs2-itest/resteasy/src/test/java/io/opentracing/contrib/jaxrs2/itest/resteasy/RestEasyServerDefaultConfigurationITest.java" timestamp="1494510000017">
         <mark key="[" line="9" column="53" />
@@ -7131,40 +7120,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>4</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBCZWFuCglwdWJsaWMgaW8ub3BlbnRyYWNpbmcuVHJhY2VyIGphZWdlclRyYWNlcigpIHsKCQlyZXR1cm4gbmV3IENvbmZpZ3VyYXRpb24oInNwcmluZy1ib290IiwgbmV3IENvbmZpZ3VyYXRpb24uU2FtcGxlckNvbmZpZ3VyYXRpb24oUHJvYmFiaWxpc3RpY1NhbXBsZXIuVFlQRSwgMSksCgkJCQluZXcgQ29uZmlndXJhdGlvbi5SZXBvcnRlckNvbmZpZ3VyYXRpb24oKSkKCQkJCS5nZXRUcmFjZXIoKTsKCX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja1dlYlNlcnZlci5lbnF1ZXVlKG5ldyBNb2NrUmVzcG9uc2UoKQogICAgICAgICAgICAgICAgICAgIC5zZXRSZXNwb25zZUNvZGUoMjAwKSk7CgogICAgICAgICAgICBTdHJpbmdFbnRpdHlSZXF1ZXN0CiAgICAgICAgICAgICAgICAgICAgZW50aXR5ID0gZmVpZ24uPFN0cmluZ0VudGl0eVJlcXVlc3Q+bmV3SW5zdGFuY2UobmV3IFRhcmdldC5IYXJkQ29kZWRUYXJnZXQoU3RyaW5nRW50aXR5UmVxdWVzdC5jbGFzcywKICAgICAgICAgICAgICAgICAgICBtb2NrV2ViU2VydmVyLnVybCgiL2ZvbyIpLnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIeXN0cml4UmVxdWVzdENvbnRleHQuaXNDdXJyZW50VGhyZWFkSW5pdGlhbGl6ZWQoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJyYXZlLlNwYW47Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJyYXZlLlNwYW47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5jbG8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LmdldCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2NrV2ViU2VydmVyLnVybCgiL2ZvbyIpLnRvU3RyaW5nKCkpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbnRpdHkgPSBmZWlnbi48U3RyaW5nRW50aXR5UmVxdWVzdD5uZXdJbnN0YW5jZShuZXcgVGFyZ2V0LkhhcmRDb2RlZFRhcmdldChTdHJpbmdFbnRpdHlSZXF1ZXN0LmNsYXNzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
