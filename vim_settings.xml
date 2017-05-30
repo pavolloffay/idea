@@ -660,6 +660,12 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/main/java/io/opentracing/contrib/okhttp3/concurrent/TracedCallable.java" timestamp="1496144843665">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/test/java/org/hawkular/apm/server/api/utils/zipkin/ZipkinSpanConvertorTest.java" timestamp="1476124375824">
         <mark key="[" line="86" column="20" />
         <mark key="]" line="86" column="57" />
@@ -1617,11 +1623,11 @@
         <mark key="^" line="11" column="100" />
         <mark key="." line="11" column="100" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/main/java/io/opentracing/contrib/okhttp3/TracingInterceptor.java" timestamp="1496137633123">
-        <mark key="[" line="107" column="30" />
-        <mark key="]" line="107" column="33" />
-        <mark key="^" line="107" column="33" />
-        <mark key="." line="107" column="33" />
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/main/java/io/opentracing/contrib/okhttp3/TracingInterceptor.java" timestamp="1496143865298">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/example-apps/zipkin/ruby-rack/Gemfile" timestamp="1472819729976">
         <mark key="[" line="0" column="0" />
@@ -3291,7 +3297,10 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="/TracingInterceptor.java" timestamp="1496137667640" />
+      <file name="/TracingInterceptor.java" timestamp="1496143078401">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="84" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/gradle-playground/app/src/main/java/io/github/loffay/App.java" timestamp="1493209157017">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -4567,11 +4576,11 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/README.md" timestamp="1496137421728">
-        <mark key="[" line="7" column="115" />
-        <mark key="]" line="7" column="68" />
-        <mark key="." line="7" column="68" />
-        <mark key="^" line="7" column="68" />
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/README.md" timestamp="1496144995520">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-web-servlet-filter/opentracing-web-servlet-filter/src/test/java/io/opentracing/contrib/web/servlet/filter/TracingFilterTest.java" timestamp="1492008600800">
         <mark key="[" line="276" column="30" />
@@ -6571,10 +6580,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/test/java/io/opentracing/contrib/okhttp3/TracingInterceptorTest.java" timestamp="1496137137175">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/test/java/io/opentracing/contrib/okhttp3/TracingInterceptorTest.java" timestamp="1496143966777">
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="36" column="2" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/webapp/src/main/java/sk/loffay/TestServlet.java" timestamp="1473155304271">
         <mark key="[" line="9" column="43" />
@@ -6683,6 +6693,9 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/main/java/io/opentracing/contrib/okhttp3/concurrent/TracedRunnable.java" timestamp="1496144832266">
+        <mark key="[" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-vertx/opentracing-vertx-core/src/main/java/io/opentracing/contrib/vertx/core/MultiMapInjectAdapter.java" timestamp="1486587698184">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="25" column="12" />
@@ -6760,6 +6773,12 @@
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/opentracing/java-okhttp/opentracing-okhttp3/src/main/java/io/opentracing/contrib/okhttp3/TagWrapper.java" timestamp="1496143213086">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="14" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/opentracing-demo/README.md" timestamp="1485688855902">
         <mark key="[" line="6" column="21" />
@@ -7139,34 +7158,34 @@
         <text encoding="base64">XDxyZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIHRyYWNpbmcgaW50ZXJjZXB0b3IuIEludGVyY2VwdG9yIGhhcyB0byBiZSBhZGRlZCB0byB7QGxpbmsgT2tIdHRwQ2xpZW50LkJ1aWxkZXIjYWRkSW50ZXJjZXB0b3IoSW50ZXJjZXB0b3IpfQogICAgICogYW5kIHtAbGluayBPa0h0dHBDbGllbnQuQnVpbGRlciNhZGROZXR3b3JrSW50ZXJjZXB0b3IoSW50ZXJjZXB0b3IpfS4KICAgICAqCiAgICAgKiBAcGFyYW0gdHJhY2VyIHRyYWNlcgogICAgICogQHBhcmFtIGRlY29yYXRvcnMgZGVjb3JhdG9ycwogICAgICovCiAgICBwdWJsaWMgVHJhY2luZ0ludGVyY2VwdG9yKFRyYWNlciB0cmFjZXIsIExpc3Q8T2tIdHRwQ2xpZW50U3BhbkRlY29yYXRvcj4gZGVjb3JhdG9ycykgewogICAgICAgIHRoaXMudHJhY2VyID0gdHJhY2VyOwogICAgICAgIHRoaXMuZGVjb3JhdG9ycyA9IG5ldyBBcnJheUxpc3Q8PihkZWNvcmF0b3JzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kaXNwYXRjaGVyKG5ldyBEaXNwYXRjaGVyKG5ldyBUcmFjaW5nRXhlY3V0b3JTZXJ2aWNlKEV4ZWN1dG9ycy5uZXdGaXhlZFRocmVhZFBvb2woMTApLCBtb2NrVHJhY2VyKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdEJ1aWxkZXIudGFnKG5ldyBUYWdXcmFwcGVyKHRhZ1dyYXBwZXIsIHNwYW4pKTsK</text>
+        <text encoding="base64">ICAgIC5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3BhbiBzcGFuID0gc3BhbkJ1aWxkZXIuc3RhcnRNYW51YWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBzdGFydCBhY3RpdmUgdG8gYWxsb3cgY29uc3VtZSBpdCBpbiBvdGhlciBpbnRlcmNlcHRvcnMK</text>
+        <text encoding="base64">ICAgICAgICAudXJsKCJodHRwOi8vbG9jYWxob3N0L2ZvbyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChPa0h0dHBDbGllbnRTcGFuRGVjb3JhdG9yIHNwYW5EZWNvcmF0b3I6IGRlY29yYXRvcnMpIHsK</text>
+        <text encoding="base64">Y2xpZW50Lm5ld0NhbGwobmV3IFJlcXVlc3QuQnVpbGRlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBzdGFydCBhY3RpdmUgdG8gYWxsb3cgY29uc3VtZSBpdCBpbiBvdGhlciBpbnRlcmNlcHRvcnMKCg==</text>
+        <text encoding="base64">Ly8gY3JlYXRlIHRyYWNlZCByZXF1ZXN0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3BhbiBzcGFuID0gc3BhbkJ1aWxkZXIuc3RhcnRNYW51YWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
