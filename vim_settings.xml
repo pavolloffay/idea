@@ -6137,6 +6137,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/bugSample/src/main/java/bugsample/module-info.java" timestamp="1496156841546">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/tmp/hawkular-apm/Makefile" timestamp="1485274467422">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="15" column="1" />
