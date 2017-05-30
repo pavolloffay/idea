@@ -5514,11 +5514,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web/src/main/java/io/opentracing/contrib/spring/web/interceptor/TracingHandlerInterceptor.java" timestamp="1496075158716">
-        <mark key="[" line="30" column="101" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/opentracing/java-spring-web/opentracing-spring-web/src/main/java/io/opentracing/contrib/spring/web/interceptor/TracingHandlerInterceptor.java" timestamp="1496135101600">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
         <mark key="^" line="11" column="18" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-http-components/opentracing-apache-http-client/src/test/java/io/opentracing/contrib/apache/TracingHttpClientBuilderTest.java" timestamp="1493212716864">
         <mark key="[" line="242" column="0" />
@@ -7133,28 +7133,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE1vY2tTcGFuIHBhcmVudFNwYW4pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9iamVjdCBoYW5kbGVyKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuIGlzVHJhY2VkKEh0dHBTZXJ2bGV0UmVxdWVzdCBodHRwU2VydmxldFJlcXVlc3QsIEh0dHBTZXJ2bGV0UmVzcG9uc2UgaHR0cFNlcnZsZXRSZXNwb25zZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnRTcGFucy5mb3JFYWNoKG5ldyBDb25zdW1lcjxNb2NrU3Bhbj4oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2tTcGFuIGNoaWxkU3BhbiA9IGNoaWxkU3BhbnMuZ2V0KHBhcmVudFNwYW4uY29udGV4dCgpLnNwYW5JZCgpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocGFyZW50U3Bhbi50YWdzKCkuZ2V0KCJyZXF1ZXN0LXVybCIpLCBjaGlsZFNwYW4udGFncygpLmdldChUYWdzLkhUVFBfVVJMLmdldEtleSgpKSk7CgogICAgICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhwYXJlbnRTcGFuLmNvbnRleHQoKS50cmFjZUlkKCksIGNoaWxkU3Bhbi5jb250ZXh0KCkudHJhY2VJZCgpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocGFyZW50U3Bhbi5jb250ZXh0KCkuc3BhbklkKCksIGNoaWxkU3Bhbi5wYXJlbnRJZCgpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMCwgY2hpbGRTcGFuLmdlbmVyYXRlZEVycm9ycygpLnNpemUoKSk7CiAgICAgICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDAsIHBhcmVudFNwYW4uZ2VuZXJhdGVkRXJyb3JzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gd2hldGhlciByZXF1ZXN0IHNob3VsZCBiZSB0cmFjZWQgb3Igbm90Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBoYW5kbGVyIGhhbmRsZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBodHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
