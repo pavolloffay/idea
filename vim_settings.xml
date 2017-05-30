@@ -905,6 +905,9 @@
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="26" />
       </file>
+      <file name="$USER_HOME$/Downloads/bugSample/pom.xml" timestamp="1496154768860">
+        <mark key="[" line="18" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/elasticsearch/src/main/java/org/hawkular/apm/server/elasticsearch/AnalyticsServiceElasticsearch.java" timestamp="1478019256546">
         <mark key="[" line="1043" column="53" />
         <mark key="]" line="1043" column="45" />
