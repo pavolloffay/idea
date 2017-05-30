@@ -468,6 +468,11 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-api/src/main/java/io/opentracing/BaseSpan.java" timestamp="1496149039541">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/main/java/org/hawkular/apm/server/api/services/PropertyService.java" timestamp="1470935366274">
         <mark key="[" line="76" column="41" />
         <mark key="]" line="74" column="42" />
@@ -738,11 +743,11 @@
         <mark key="." line="46" column="22" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/opentracing-java/pom.xml" timestamp="1496146667732">
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/pom.xml" timestamp="1496148270237">
         <mark key="[" line="46" column="27" />
-        <mark key="]" line="59" column="38" />
-        <mark key="." line="59" column="38" />
-        <mark key="^" line="59" column="38" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm-opentracing-javascript/lib/APMSpanContext.js" timestamp="1481121825427">
         <mark key="[" line="56" column="5" />
@@ -1218,11 +1223,11 @@
         <mark key="^" line="70" column="76" />
         <mark key="." line="70" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-noop/src/main/java/io/opentracing/NoopActiveSpanSource.java" timestamp="1493996290543">
-        <mark key="[" line="99" column="29" />
-        <mark key="]" line="99" column="53" />
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-noop/src/main/java/io/opentracing/NoopActiveSpanSource.java" timestamp="1496148656525">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
         <mark key="^" line="99" column="53" />
-        <mark key="." line="99" column="53" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/trace/Producer.java" timestamp="1483522011250">
         <mark key="[" line="97" column="83" />
@@ -4249,6 +4254,11 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-mock/src/main/java/io/opentracing/mock/MockSpan.java" timestamp="1496148483109">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/main/java/org/hawkular/apm/server/api/utils/zipkin/SpanDeriverUtil.java" timestamp="1474303097553">
         <mark key="[" line="42" column="44" />
         <mark key="]" line="42" column="28" />
@@ -4546,6 +4556,11 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-util/src/main/java/io/opentracing/util/ThreadLocalActiveSpan.java" timestamp="1496148788352">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/trace/Consumer.java" timestamp="1483522029893">
         <mark key="[" line="97" column="83" />
         <mark key="]" line="88" column="19" />
@@ -4557,6 +4572,11 @@
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-mock/src/test/java/io/opentracing/mock/MockTracerTest.java" timestamp="1496148748757">
+        <mark key="[" line="66" column="47" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/processors/zipkin/src/test/java/org/hawkular/apm/processor/zipkin/TraceCompletionTimeDeriverTest.java" timestamp="1472654549317">
         <mark key="[" line="34" column="26" />
@@ -5858,6 +5878,11 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="14" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-noop/src/main/java/io/opentracing/NoopSpan.java" timestamp="1496148474653">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/opentracing/java-jaxrs/jaxrs2/src/main/java/io/opentracing/contrib/jaxrs/server/SpanServerRequestFilter.java" timestamp="1483951910332">
         <mark key="[" line="49" column="90" />
         <mark key="]" line="50" column="74" />
@@ -6744,6 +6769,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-api/src/main/java/io/opentracing/Span.java" timestamp="1496148290806">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/jms/src/main/java/org/hawkular/apm/server/jms/span/CommunicationDetailsDeriverMDB.java" timestamp="1474384250357">
         <mark key="[" line="56" column="12" />
         <mark key="]" line="67" column="61" />
@@ -7152,7 +7182,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZlw+</text>
@@ -7164,31 +7194,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5leGVjdXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudXJsKCJodHRwOi8vbG9jYWxob3N0L2ZvbyIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3cmFwcGVkLmxvZyh0aW1lc3RhbXBNaWNyb3NlY29uZHMsIGV2ZW50TmFtZSwgcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xpZW50Lm5ld0NhbGwobmV3IFJlcXVlc3QuQnVpbGRlcigpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUaHJlYWRMb2NhbEFjdGl2ZVNwYW4gbG9nKGxvbmcgdGltZXN0YW1wTWljcm9zZWNvbmRzLCBTdHJpbmcgZXZlbnROYW1lLCBPYmplY3QgcGF5bG9hZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY3JlYXRlIHRyYWNlZCByZXF1ZXN0IAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>42</text>
       </register>
     </registers>
     <search>
@@ -7205,7 +7235,6 @@
         <entry encoding="base64">XDxyZlw+</entry>
       </history-search>
       <history-cmd>
-        <entry>152</entry>
         <entry>182</entry>
         <entry>299</entry>
         <entry>241</entry>
@@ -7225,6 +7254,7 @@
         <entry>W</entry>
         <entry>&quot;W</entry>
         <entry>w</entry>
+        <entry>42</entry>
       </history-cmd>
       <history-expr />
       <history-input />
