@@ -4258,9 +4258,9 @@
         <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-mock/src/main/java/io/opentracing/mock/MockSpan.java" timestamp="1496148483109">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/main/java/org/hawkular/apm/server/api/utils/zipkin/SpanDeriverUtil.java" timestamp="1474303097553">
         <mark key="[" line="42" column="44" />
@@ -4560,9 +4560,9 @@
         <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-util/src/main/java/io/opentracing/util/ThreadLocalActiveSpan.java" timestamp="1496148788352">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/trace/Consumer.java" timestamp="1483522029893">
         <mark key="[" line="97" column="83" />
@@ -4575,11 +4575,6 @@
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
-      </file>
-      <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-mock/src/test/java/io/opentracing/mock/MockTracerTest.java" timestamp="1496148748757">
-        <mark key="[" line="66" column="47" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/processors/zipkin/src/test/java/org/hawkular/apm/processor/zipkin/TraceCompletionTimeDeriverTest.java" timestamp="1472654549317">
         <mark key="[" line="34" column="26" />
