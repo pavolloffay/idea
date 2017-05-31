@@ -1160,6 +1160,12 @@
         <mark key="." line="52" column="35" />
         <mark key="^" line="52" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/opentracing-apache-httpclient/src/main/java/io/opentracing/contrib/apache/http/client/TracingClientExec.java" timestamp="1496232429368">
+        <mark key="[" line="129" column="21" />
+        <mark key="]" line="129" column="14" />
+        <mark key="." line="129" column="14" />
+        <mark key="^" line="129" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/span/LogEvent.java" timestamp="1485967412861">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -5095,11 +5101,11 @@
         <mark key="^" line="78" column="26" />
         <mark key="." line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/pom.xml" timestamp="1493887026555">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="31" />
-        <mark key="^" line="73" column="31" />
-        <mark key="." line="73" column="31" />
+      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/pom.xml" timestamp="1496232228451">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/processors/src/test/java/org/hawkular/apm/server/processor/tracecompletiontime/TraceCompletionInformationUtilTest.java" timestamp="1476779974603">
         <mark key="[" line="67" column="51" />
@@ -7198,10 +7204,10 @@
         <text encoding="base64">KiBAcHJpdGlhbmthIChQcml5YW5rYSBTaGFybWEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFNwYW5NYW5hZ2VyIHNwYW5NYW5hZ2VyID0gRGVmYXVsdFNwYW5NYW5hZ2VyLmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uLmlvLm9wZW50cmFjaW5nLmNvbnRyaWItb3BlbnRyYWNpbmctc3Bhbm1hbmFnZXI+MC4wLjQ8L3ZlcnNpb24uaW8ub3BlbnRyYWNpbmcuY29udHJpYi1vcGVudHJhY2luZy1zcGFubWFuYWdlcj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
@@ -7210,16 +7216,16 @@
         <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IFJ1YnkKICAgIHVybDogLy9naXRodWIuY29tL29wZW50cmFjaW5nL29wZW50cmFjaW5nLXJ1YnkKICAgIGljb246ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
