@@ -304,11 +304,11 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/aloha/pom.xml" timestamp="1493045967828">
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="50" column="16" />
-        <mark key="^" line="50" column="16" />
-        <mark key="." line="50" column="16" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/aloha/pom.xml" timestamp="1496226350825">
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="31" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="46" column="31" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/collector/pom.xml" timestamp="1480343726666">
         <mark key="[" line="66" column="21" />
@@ -2446,11 +2446,11 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/ola/pom.xml" timestamp="1493105743498">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="137" column="16" />
-        <mark key="^" line="55" column="10" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/ola/pom.xml" timestamp="1496226625116">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="52" column="55" />
+        <mark key="^" line="52" column="55" />
+        <mark key="." line="52" column="55" />
       </file>
       <file name="$USER_HOME$/projects/docker-java/src/test/java/com/github/dockerjava/core/command/StartContainerCmdImplTest.java" timestamp="1469043284504">
         <mark key="[" line="433" column="48" />
@@ -3164,6 +3164,12 @@
         <mark key="]" line="25" column="42" />
         <mark key="." line="25" column="42" />
         <mark key="^" line="25" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/pom.xml" timestamp="1496226538107">
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="59" column="39" />
+        <mark key="^" line="59" column="39" />
+        <mark key="." line="59" column="39" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-vertx/opentracing-vertx-core/pom.xml" timestamp="1486573664097">
         <mark key="[" line="33" column="47" />
@@ -4664,11 +4670,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/src/main/java/com/redhat/developers/msa/api_gateway/CamelConfiguration.java" timestamp="1493363698273">
-        <mark key="[" line="70" column="59" />
-        <mark key="]" line="70" column="63" />
-        <mark key="^" line="70" column="63" />
-        <mark key="." line="70" column="63" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/src/main/java/com/redhat/developers/msa/api_gateway/CamelConfiguration.java" timestamp="1496226380537">
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="30" />
+        <mark key="^" line="82" column="30" />
+        <mark key="." line="82" column="30" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/python-pyramid/setup.py" timestamp="1476361280553">
         <mark key="[" line="36" column="26" />
@@ -4907,11 +4913,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/aloha/src/main/java/com/redhat/developers/msa/aloha/TracingConfiguration.java" timestamp="1493363715712">
-        <mark key="[" line="35" column="57" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/aloha/src/main/java/com/redhat/developers/msa/aloha/TracingConfiguration.java" timestamp="1496226209148">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+        <mark key="." line="47" column="30" />
       </file>
       <file name="$USER_HOME$/tmp/demo/src/main/java/com/example/demo/rest/MyAppServletContextListener.java" timestamp="1494405157711">
         <mark key="[" line="20" column="22" />
@@ -4973,11 +4979,11 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/pom.xml" timestamp="1493281577266">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="77" column="18" />
-        <mark key="^" line="77" column="18" />
-        <mark key="." line="77" column="18" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/pom.xml" timestamp="1496226299287">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+        <mark key="." line="44" column="31" />
       </file>
       <file name="$USER_HOME$/projects/camel/examples/camel-example-zipkin/client/src/main/java/sample/camel/ClientApplication.java" timestamp="1473702578958">
         <mark key="[" line="34" column="0" />
@@ -6183,11 +6189,11 @@
         <mark key="^" line="38" column="59" />
         <mark key="." line="51" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/ola/src/main/java/com/redhat/developers/msa/ola/TracingConfiguration.java" timestamp="1494404263635">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="48" />
-        <mark key="^" line="40" column="40" />
-        <mark key="." line="40" column="40" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/ola/src/main/java/com/redhat/developers/msa/ola/TracingConfiguration.java" timestamp="1496226643472">
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="31" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/opentracing-apache-httpclient/src/main/java/io/opentracing/contrib/apache/Constants.java" timestamp="1493887377484">
         <mark key="[" line="5" column="24" />
@@ -7087,11 +7093,11 @@
         <mark key="^" line="52" column="3" />
         <mark key="." line="52" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/TracingConfiguration.java" timestamp="1493363785535">
-        <mark key="[" line="61" column="59" />
-        <mark key="]" line="61" column="58" />
-        <mark key="^" line="61" column="58" />
-        <mark key="." line="61" column="58" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/hola/src/main/java/com/redhat/developers/msa/hola/TracingConfiguration.java" timestamp="1496226544471">
+        <mark key="[" line="74" column="31" />
+        <mark key="]" line="73" column="30" />
+        <mark key="^" line="73" column="30" />
+        <mark key="." line="73" column="30" />
       </file>
       <file name="$USER_HOME$/projects/opentracing/opentracing-java/opentracing-api/src/main/java/io/opentracing/SpanManager.java" timestamp="1490884073000">
         <mark key="[" line="33" column="18" />
@@ -7192,31 +7198,31 @@
         <text encoding="base64">KiBAcHJpdGlhbmthIChQcml5YW5rYSBTaGFybWEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IFJ1YnkKICAgIHVybDogLy9naXRodWIuY29tL29wZW50cmFjaW5nL29wZW50cmFjaW5nLXJ1YnkKICAgIGljb246ICcnCg==</text>
+        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">ICAtIG5hbWU6IFJ1YnkKICAgIHVybDogLy9naXRodWIuY29tL29wZW50cmFjaW5nL29wZW50cmFjaW5nLXJ1YnkKICAgIGljb246ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVkLmxvZyh0aW1lc3RhbXBNaWNyb3NlY29uZHMsIGV2ZW50TmFtZSwgcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUaHJlYWRMb2NhbEFjdGl2ZVNwYW4gbG9nKGxvbmcgdGltZXN0YW1wTWljcm9zZWNvbmRzLCBTdHJpbmcgZXZlbnROYW1lLCBPYmplY3QgcGF5bG9hZCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
