@@ -1160,11 +1160,11 @@
         <mark key="." line="52" column="35" />
         <mark key="^" line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/opentracing-apache-httpclient/src/main/java/io/opentracing/contrib/apache/http/client/TracingClientExec.java" timestamp="1496232429368">
-        <mark key="[" line="129" column="21" />
-        <mark key="]" line="129" column="14" />
-        <mark key="." line="129" column="14" />
-        <mark key="^" line="129" column="14" />
+      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/opentracing-apache-httpclient/src/main/java/io/opentracing/contrib/apache/http/client/TracingClientExec.java" timestamp="1496233333124">
+        <mark key="[" line="82" column="25" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="28" />
+        <mark key="^" line="82" column="28" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/api/src/main/java/org/hawkular/apm/api/model/span/LogEvent.java" timestamp="1485967412861">
         <mark key="[" line="33" column="0" />
@@ -3896,6 +3896,11 @@
         <mark key="^" line="63" column="16" />
         <mark key="." line="63" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/opentracing-apache-httpclient/pom.xml" timestamp="1496233560498">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/opentracing/src/main/java/io/opentracing/impl/SpanToNodeProcessor.java" timestamp="1484669988942">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="42" />
@@ -6243,6 +6248,12 @@
         <mark key="^" line="16" column="30" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/opentracing/java-apache-httpclient/opentracing-apache-httpclient/src/main/java/io/opentracing/contrib/apache/http/client/ApacheClientSpanDecorator.java" timestamp="1496233306456">
+        <mark key="[" line="29" column="77" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/server/api/src/test/java/org/hawkular/apm/server/api/utils/SpanIdGeneratorTest.java" timestamp="1470044577957">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -7204,31 +7215,31 @@
         <text encoding="base64">KiBAcHJpdGlhbmthIChQcml5YW5rYSBTaGFybWEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFNwYW5NYW5hZ2VyIHNwYW5NYW5hZ2VyID0gRGVmYXVsdFNwYW5NYW5hZ2VyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uLmlvLm9wZW50cmFjaW5nLmNvbnRyaWItb3BlbnRyYWNpbmctc3Bhbm1hbmFnZXI+MC4wLjQ8L3ZlcnNpb24uaW8ub3BlbnRyYWNpbmcuY29udHJpYi1vcGVudHJhY2luZy1zcGFubWFuYWdlcj4K</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHt2ZXJzaW9uLmlvLm9wZW50cmFjaW5nLmNvbnRyaWItb3BlbnRyYWNpbmctc3Bhbm1hbmFnZXJ9PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+b3BlbnRyYWNpbmctc3Bhbm1hbmFnZXI8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+aW8ub3BlbnRyYWNpbmcuY29udHJpYjwvZ3JvdXBJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsU3Bhbi5maW5pc2goKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RTcGFuLmZpbmlzaCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFNwYW5NYW5hZ2VyIHNwYW5NYW5hZ2VyID0gRGVmYXVsdFNwYW5NYW5hZ2VyLmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uLmlvLm9wZW50cmFjaW5nLmNvbnRyaWItb3BlbnRyYWNpbmctc3Bhbm1hbmFnZXI+MC4wLjQ8L3ZlcnNpb24uaW8ub3BlbnRyYWNpbmcuY29udHJpYi1vcGVudHJhY2luZy1zcGFubWFuYWdlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
