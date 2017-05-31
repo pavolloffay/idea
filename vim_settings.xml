@@ -1661,11 +1661,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/src/main/java/com/redhat/developers/msa/api_gateway/TracingConfiguration.java" timestamp="1493045616116">
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="56" column="40" />
-        <mark key="." line="56" column="40" />
-        <mark key="^" line="56" column="40" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/src/main/java/com/redhat/developers/msa/api_gateway/TracingConfiguration.java" timestamp="1496229116122">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="60" column="41" />
+        <mark key="." line="60" column="41" />
+        <mark key="^" line="60" column="41" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/client/opentracing/src/main/java/org/hawkular/apm/client/opentracing/refactor/ExtractedContext.java" timestamp="1484932077595">
         <mark key="[" line="37" column="55" />
@@ -4386,7 +4386,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496146563585">
+      <file name="/Dummy.txt" timestamp="1496229109649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hawkular/hawkular-apm/examples/polyglot-zipkin/js-express/app.js" timestamp="1476359059592">
@@ -4979,11 +4979,11 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/pom.xml" timestamp="1496226299287">
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="44" column="31" />
-        <mark key="^" line="44" column="31" />
-        <mark key="." line="44" column="31" />
+      <file name="$USER_HOME$/projects/msa/helloworld-msa-src/api-gateway/pom.xml" timestamp="1496229219873">
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
       </file>
       <file name="$USER_HOME$/projects/camel/examples/camel-example-zipkin/client/src/main/java/sample/camel/ClientApplication.java" timestamp="1473702578958">
         <mark key="[" line="34" column="0" />
@@ -7207,22 +7207,22 @@
         <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51YmVyLmphZWdlci5zZW5kZXJzLlVEUFNlbmRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBAcGF2b2xsb2ZmYXkgKFBhdm9sIExvZmZheSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IFJ1YnkKICAgIHVybDogLy9naXRodWIuY29tL29wZW50cmFjaW5nL29wZW50cmFjaW5nLXJ1YnkKICAgIGljb246ICcnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IFJ1YnkKICAgIHVybDogLy9naXRodWIuY29tL29wZW50cmFjaW5nL29wZW50cmFjaW5nLXJ1YnkKICAgIGljb246ICcnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
